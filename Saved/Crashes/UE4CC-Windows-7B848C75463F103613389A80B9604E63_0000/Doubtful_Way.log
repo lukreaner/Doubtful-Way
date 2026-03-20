@@ -1,0 +1,997 @@
+﻿Log file open, 10/14/17 16:54:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Doubtful_Way
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(402273415) SRandInit(402273415).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.174003
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: W:/UnrealEngine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.14-14.54.02:586][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.14-14.54.02:586][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.14-14.54.02:697][  0]LogInit: Computer: JAN-LUKASPC
+[2017.10.14-14.54.02:697][  0]LogInit: User: janl
+[2017.10.14-14.54.02:697][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.14-14.54.02:697][  0]LogInit: High frequency timer resolution =3.320327 MHz
+[2017.10.14-14.54.02:697][  0]LogMemory: Memory total: Physical=19.9GB (20GB approx)
+[2017.10.14-14.54.02:716][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-14.54.02:716][  0]LogMemory: Process Physical Memory: 285.13 MB used, 285.13 MB peak
+[2017.10.14-14.54.02:716][  0]LogMemory: Process Virtual Memory: 285.86 MB used, 285.86 MB peak
+[2017.10.14-14.54.02:716][  0]LogMemory: Physical Memory: 6322.08 MB used,  14093.05 MB free, 20415.13 MB total
+[2017.10.14-14.54.02:716][  0]LogMemory: Virtual Memory: 700.08 MB used,  14093.05 MB free, 134217728.00 MB total
+[2017.10.14-14.54.03:446][  0]LogInit: Using OS detected language (de-DE).
+[2017.10.14-14.54.03:446][  0]LogInit: Using OS detected locale (de-DE).
+[2017.10.14-14.54.03:567][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2017.10.14-14.54.03:569][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the locale.
+[2017.10.14-14.54.06:747][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.14-14.54.06:810][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.10.14-14.54.06:810][  0]LogD3D11RHI:       8096/0/10207 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.14-14.54.06:814][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.14-14.54.06:814][  0]LogD3D11RHI:       0/0/10207 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.14-14.54.06:814][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.14-14.54.06:821][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.14-14.54.06:822][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.14-14.54.06:822][  0]LogWindows: EnumDisplayDevices:
+[2017.10.14-14.54.06:822][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.10.14-14.54.06:822][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.14-14.54.06:822][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.14-14.54.06:822][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.14-14.54.06:822][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.10.14-14.54.06:822][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.10.14-14.54.06:823][  0]LogD3D11RHI:   Driver Version: 387.92 (internal:23.21.13.8792, unified:387.92)
+[2017.10.14-14.54.06:823][  0]LogD3D11RHI:      Driver Date: 10-6-2017
+[2017.10.14-14.54.06:823][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.14-14.54.06:866][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.14-14.54.07:188][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.14-14.54.07:302][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/Shaders/WorkingDirectory/384/).
+[2017.10.14-14.54.07:302][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jan-l/AppData/Local/Temp/UnrealShaderWorkingDir/F9BA2E4E470546AE2E9EE59796F46BD7/'.
+[2017.10.14-14.54.07:311][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.14-14.54.10:609][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.14-14.54.10:665][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.14-14.54.10:721][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.14-14.54.10:778][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.14-14.54.10:845][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.14-14.54.10:904][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.14-14.54.10:964][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.14-14.54.11:019][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.14-14.54.11:071][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.14-14.54.11:140][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.14-14.54.11:196][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.14-14.54.11:250][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.14-14.54.11:307][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.14-14.54.11:361][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.14-14.54.11:417][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.14-14.54.11:534][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.14-14.54.11:534][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.14-14.54.11:582][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.14-14.54.11:744][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.14-14.54.11:769][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.14-14.54.11:827][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.14-14.54.11:882][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.14-14.54.11:946][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.14-14.54.12:010][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.14-14.54.12:010][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.14-14.54.13:195][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.14-14.54.13:229][  0]LogDerivedDataCache: Loaded boot cache 0.03s 9MB C:/Users/jan-l/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.14-14.54.13:229][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jan-l/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.14-14.54.13:229][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file V:/Doubtful_Way/Doubtful_Way 4.17/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.14-14.54.13:229][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.14-14.54.13:229][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file V:/Doubtful_Way/Doubtful_Way 4.17/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.14-14.54.13:229][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.14-14.54.13:284][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.14-14.54.13:298][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jan-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.14-14.54.13:390][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.14-14.54.13:477][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.14-14.54.13:548][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.14-14.54.13:549][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.14-14.54.23:598][  0]LogAssetRegistry: FAssetRegistry took 0.0320 seconds to start up
+[2017.10.14-14.54.24:135][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.14-14.54.26:400][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.14-14.54.27:603][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.14-14.54.27:693][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.14-14.54.27:694][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.14-14.54.27:694][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.14-14.54.27:694][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.14-14.54.27:694][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.14-14.54.31:708][  0]LogNetVersion: Doubtful_Way , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3037758569)
+[2017.10.14-14.54.33:983][  0]LogFileManager: Warning: MoveFile was unable to move 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2017.10.14-14.54.34:484][  0]LogFileManager: Warning: MoveFile was unable to move 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2017.10.14-14.54.34:984][  0]LogFileManager: Warning: MoveFile was unable to move 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2017.10.14-14.54.35:484][  0]LogFileManager: Warning: MoveFile was unable to move 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2017.10.14-14.54.35:985][  0]LogFileManager: Warning: MoveFile was unable to move 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2017.10.14-14.54.36:485][  0]LogFileManager: Warning: MoveFile was unable to move 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2017.10.14-14.54.36:985][  0]LogFileManager: Warning: MoveFile was unable to move 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2017.10.14-14.54.37:486][  0]LogFileManager: Warning: MoveFile was unable to move 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2017.10.14-14.54.37:986][  0]LogFileManager: Warning: MoveFile was unable to move 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2017.10.14-14.54.38:486][  0]LogFileManager: Warning: MoveFile was unable to move 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2017.10.14-14.54.38:987][  0]LogFileManager: Error: Error moving file 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/AssetRegistryCache/2657c409.bin'.
+[2017.10.14-14.54.39:012][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 5.052462 seconds
+[2017.10.14-14.54.39:019][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.14-14.54.39:019][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.14-14.54.39:019][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.14-14.54.39:064][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.14-14.55.01:836][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.14-14.55.01:895][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.14-14.55.03:923][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.14-14.55.05:145][  0]SourceControl: Source control is disabled
+[2017.10.14-14.55.05:146][  0]SourceControl: Source control is disabled
+[2017.10.14-14.55.05:265][  0]SourceControl: Source control is disabled
+[2017.10.14-14.55.05:365][  0]SourceControl: Source control is disabled
+[2017.10.14-14.55.06:634][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.14-14.55.07:135][  0]LogOcInput: OculusInput pre-init called
+[2017.10.14-14.55.08:235][  0]LogEngine: Initializing Engine...
+[2017.10.14-14.55.08:334][  0]LogHMD: Oculus plugin initialized. Version: 4.17.2-3658906+++UE4+Release-4.17, OVRPlugin: 1.15.0
+[2017.10.14-14.55.09:843][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.14-14.55.09:844][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.14-14.55.10:620][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.14-14.55.10:805][  0]LogInit: XAudio2 using 'Lautsprecher (Sound Blaster E5)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.14-14.55.10:833][  0]LogInit: FAudioDevice initialized.
+[2017.10.14-14.55.10:835][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/jan-l/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.14-14.55.10:852][  0]LogInit: Texture streaming: Enabled
+[2017.10.14-14.55.11:132][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.14-14.55.12:076][  0]LogInit: Transaction tracking system initialized
+[2017.10.14-14.55.12:815][  0]BlueprintLog: New page: Editor Load
+[2017.10.14-14.55.15:299][  0]LocalizationService: Localization service is disabled
+[2017.10.14-14.55.17:323][  0]LogConsoleResponse: Display: 
+[2017.10.14-14.55.19:071][  0]LogFileCache: Scanning file cache for directory 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/' took 0.04s
+[2017.10.14-14.55.19:071][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.14-14.55.19:072][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.14-14.55.19:109][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.14-14.55.22:038][  0]SourceControl: Source control is disabled
+[2017.10.14-14.55.22:088][  0]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-14.55.22:123][  0]LightingResults: New page: Lighting Build
+[2017.10.14-14.55.22:382][  0]MapCheck: New page: Map Check
+[2017.10.14-14.55.22:382][  0]LightingResults: New page: Lighting Build
+[2017.10.14-14.55.27:087][  0]LogAIModule: Creating AISystem for world DoubtfulWay
+[2017.10.14-14.55.28:161][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-14.55.28:421][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-14.55.28:587][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 166.113ms to complete.
+[2017.10.14-14.55.28:595][  0]LogFileHelpers: Loading map 'DoubtfulWay' took 6.512
+[2017.10.14-14.55.31:113][  0]LogCollectionManager: Loaded 0 collections in 0.003012 seconds
+[2017.10.14-14.55.31:386][  0]LogFileCache: Scanning file cache for directory 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Collections/' took 0.01s
+[2017.10.14-14.55.31:386][  0]LogFileCache: Scanning file cache for directory 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Developers/janl/Collections/' took 0.01s
+[2017.10.14-14.55.31:386][  0]LogFileCache: Scanning file cache for directory 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Collections/' took 0.01s
+[2017.10.14-14.55.31:386][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.14-14.55.31:399][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2386 classes and 500 folders.
+[2017.10.14-14.55.31:754][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.14-14.55.32:072][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.14-14.55.32:192][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.14-14.55.36:096][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DoubtfulWay
+[2017.10.14-14.55.36:096][  0]LogTemp: CWD: W:\UnrealEngine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.14-14.55.36:096][  0]LogTemp: Initial Dir: W:\UnrealEngine\UE_4.17
+[2017.10.14-14.55.36:096][  0]LogTemp: Env CWD: W:\UnrealEngine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.14-14.55.36:096][  0]LogTemp: BranchPath = JAN-LUKASPC/W/UnrealEngine/UE_4.17/Engine/Binaries --- GameBranchPath = JAN-LUKASPC/W/UnrealEngine/UE_4.17/Engine/Binaries
+[2017.10.14-14.55.36:096][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\jan-l\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.10.14-14.55.36:096][  0]LogSlate: Took 0.015652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.14-14.55.36:171][  0]LogSlate: Took 0.012404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.14-14.55.36:368][  0]LogSlate: Took 0.023327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.14-14.55.37:128][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.10.14-14.55.38:193][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.14-14.55.38:194][  0]LogLoad: (Engine Initialization) Total time: 100.56 seconds
+[2017.10.14-14.55.38:194][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.14-14.55.38:221][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.10.14-14.55.38:593][  0]LogOcInput: OculusInput is initialized
+[2017.10.14-14.55.39:084][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.14-14.55.39:823][  1]LogSlate: Took 0.015642 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.14-14.55.39:982][  2]LogSlate: Took 0.001062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.14-14.55.40:020][  3]LogAssetRegistry: Asset discovery search completed in 76.4452 seconds
+[2017.10.14-14.55.40:045][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.10.14-14.55.40:046][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.014987 seconds (updated 0 objects)
+[2017.10.14-14.55.43:600][ 87]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.14-14.55.44:989][ 87]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2017.10.14-14.55.51:803][ 87]LogSlate: Took 0.042773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.14-14.55.53:103][ 88]LogSlate: Took 0.062297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.14-15.00.21:809][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Blendspace Player '(None)'  references an unknown blend space
+[2017.10.14-15.00.21:810][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Play (None)  references an unknown sequence
+[2017.10.14-15.00.21:810][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Play (None)  references an unknown sequence
+[2017.10.14-15.00.21:810][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Play (None)  references an unknown sequence
+[2017.10.14-15.00.21:816][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] ICE: Player node  Play (None)  was not processed prior to handling a transition getter  Animation Asset  that used it
+[2017.10.14-15.00.21:817][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] ICE: Player node  Play (None)  was not processed prior to handling a transition getter  Animation Asset  that used it
+[2017.10.14-15.00.21:817][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Missing allocated node for AnimGraphNode_BlendSpacePlayer_9 while searching for node links - likely due to the node having outstanding errors.
+[2017.10.14-15.00.21:817][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_34 while searching for node links - likely due to the node having outstanding errors.
+[2017.10.14-15.00.21:817][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_40 while searching for node links - likely due to the node having outstanding errors.
+[2017.10.14-15.00.21:817][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Missing allocated node for AnimGraphNode_SequencePlayer_46 while searching for node links - likely due to the node having outstanding errors.
+[2017.10.14-15.00.21:819][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2017.10.14-15.00.21:819][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2017.10.14-15.00.21:827][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2017.10.14-15.00.21:827][735]LogBlueprint: Error: [Compiler ThirdPerson_AnimBP] Unexpected node type K2Node_TransitionRuleGetter encountered at  Animation Asset
+[2017.10.14-15.00.21:839][735]LogBlueprint: Warning: [Compiler ThirdPerson_AnimBP] [0384.20] Compile of ThirdPerson_AnimBP failed. 14 Fatal Issue(s) 0 Warning(s) [in 54 ms] (/Game/AnimStarterPack/ThirdPerson_AnimBP.ThirdPerson_AnimBP)
+[2017.10.14-15.00.32:201][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DoubtfulWay" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-15.00.33:914][612]LogSavePackage: Save=1502.88ms
+[2017.10.14-15.00.33:914][612]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.14-15.00.33:918][612]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWayF7EED4AF401D720CB6DE7BB214F2C15D.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap'
+[2017.10.14-15.00.33:922][612]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap
+[2017.10.14-15.00.33:974][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DoubtfulWay_BuiltData" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay_BuiltData.uasset" SILENT=true
+[2017.10.14-15.00.34:481][612]LogSavePackage: Save=442.90ms
+[2017.10.14-15.00.34:481][612]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWay_BuiltData7C03A60243545CCA9D246583D3A663A6.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay_BuiltData.uasset'
+[2017.10.14-15.00.34:483][612]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay_BuiltData.uasset
+[2017.10.14-15.07.14:044][920]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.10.14-15.07.40:850][238]Cmd: TRANSACTION UNDO
+[2017.10.14-15.07.40:850][238]LogEditorTransaction: Undo Move Actors
+[2017.10.14-15.07.55:943][543]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-15.07.56:073][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-15.07.56:090][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-15.07.56:106][543]LogHMD: Initializing OVRPlugin session
+[2017.10.14-15.07.56:253][543]PIE: New page: PIE session: DoubtfulWay (Oct 14, 2017, 7:07:56 PM)
+[2017.10.14-15.07.56:271][543]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DoubtfulWay
+[2017.10.14-15.07.56:453][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.182013s)
+[2017.10.14-15.07.56:454][543]LogAIModule: Creating AISystem for world DoubtfulWay
+[2017.10.14-15.07.56:454][543]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2017.10.14-15.07.56:454][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DoubtfulWay.DoubtfulWay to /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay (0.193855s)
+[2017.10.14-15.07.56:496][543]LogInit: XAudio2 using 'Lautsprecher (Sound Blaster E5)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.14-15.07.56:507][543]LogInit: FAudioDevice initialized.
+[2017.10.14-15.07.56:625][543]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.14-15.07.56:651][543]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay up for play (max tick rate 0) at 2017.10.14-17.07.56
+[2017.10.14-15.07.56:696][543]LogWorld: Bringing up level for play took: 0.058985
+[2017.10.14-15.07.56:792][543]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.10.14-15.07.56:794][543]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.07.56:794][543]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.07.56:794][543]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.07.56:824][543]Cmd: stat FPS
+[2017.10.14-15.07.56:911][543]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.07.56:912][543]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DoubtfulWay 0.815
+[2017.10.14-15.07.56:913][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-15.08.12:968][412]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-15.08.13:118][412]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-15.10.49:638][523]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-15.10.49:656][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-15.10.49:656][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-15.10.49:656][523]LogHMD: Initializing OVRPlugin session
+[2017.10.14-15.10.49:675][523]PIE: New page: PIE session: DoubtfulWay (Oct 14, 2017, 7:10:49 PM)
+[2017.10.14-15.10.49:675][523]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DoubtfulWay
+[2017.10.14-15.10.49:818][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.143290s)
+[2017.10.14-15.10.49:818][523]LogAIModule: Creating AISystem for world DoubtfulWay
+[2017.10.14-15.10.49:819][523]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2017.10.14-15.10.49:819][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DoubtfulWay.DoubtfulWay to /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay (0.144428s)
+[2017.10.14-15.10.49:846][523]LogInit: XAudio2 using 'Lautsprecher (Sound Blaster E5)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.14-15.10.49:856][523]LogInit: FAudioDevice initialized.
+[2017.10.14-15.10.49:900][523]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.14-15.10.49:909][523]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay up for play (max tick rate 0) at 2017.10.14-17.10.49
+[2017.10.14-15.10.49:910][523]LogWorld: Bringing up level for play took: 0.010116
+[2017.10.14-15.10.49:911][523]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.10.49:911][523]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.10.49:911][523]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.10.49:912][523]Cmd: stat FPS
+[2017.10.14-15.10.49:912][523]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.10.49:912][523]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DoubtfulWay -0.185
+[2017.10.14-15.10.49:912][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-15.10.51:326][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-15.10.51:381][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-15.11.57:965][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DoubtfulWay" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Autosaves/Game/Maps/DoubtfulWay_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.14-15.12.01:481][179]LogSavePackage: Save=3458.15ms
+[2017.10.14-15.12.01:481][179]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWay_Auto15540A11D472FE794801608AD2FF812B2.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Autosaves/Game/Maps/DoubtfulWay_Auto1.umap'
+[2017.10.14-15.12.01:518][179]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Autosaves/Game/Maps/DoubtfulWay_Auto1.umap
+[2017.10.14-15.12.01:539][179]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DoubtfulWay' took 3.607
+[2017.10.14-15.12.01:539][179]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.607
+[2017.10.14-15.13.35:088][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DoubtfulWay" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-15.13.36:489][590]LogSavePackage: Save=1373.87ms
+[2017.10.14-15.13.36:491][590]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWay08C8938B42D3C1E089398E911D653992.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap'
+[2017.10.14-15.13.36:499][590]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap
+[2017.10.14-15.13.36:528][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DoubtfulWay_BuiltData" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay_BuiltData.uasset" SILENT=true
+[2017.10.14-15.13.36:871][590]LogSavePackage: Save=325.50ms
+[2017.10.14-15.13.36:871][590]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWay_BuiltDataF602C500470C40BCB5D23A8FC187CBD6.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay_BuiltData.uasset'
+[2017.10.14-15.13.36:874][590]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay_BuiltData.uasset
+[2017.10.14-15.23.01:308][825]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.10.14-15.23.02:521][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ThirdPersonCharacter" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.10.14-15.23.02:614][915]LogSavePackage: Save=84.02ms
+[2017.10.14-15.23.02:614][915]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/ThirdPersonCharacter28431E6542BF515E51CCBDB5D0B84972.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.10.14-15.23.02:619][915]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.10.14-15.23.06:501][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DeadScreen" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DeadScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-15.23.06:534][183]LogSavePackage: Save=13.23ms
+[2017.10.14-15.23.06:534][183]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DeadScreen5AAF84DF4A944304FDB3259845BA1E22.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DeadScreen.umap'
+[2017.10.14-15.23.06:538][183]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DeadScreen.umap
+[2017.10.14-15.23.06:538][183]LogFileHelpers: Saving map 'DeadScreen' took 0.173
+[2017.10.14-15.23.06:667][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DoubtfulWay" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-15.23.08:097][183]LogSavePackage: Save=1334.88ms
+[2017.10.14-15.23.08:097][183]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWay63532F5E46A9C4ACE1FA5DA9B56C5602.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap'
+[2017.10.14-15.23.08:103][183]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap
+[2017.10.14-15.23.08:130][183]LogFileHelpers: Saving map 'DoubtfulWay' took 1.592
+[2017.10.14-15.23.08:132][183]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DeadScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-15.23.08:132][183]LightingResults: New page: Lighting Build
+[2017.10.14-15.23.08:133][183]LoadErrors: New page: Loading map: DeadScreen.umap
+[2017.10.14-15.23.08:170][183]MapCheck: New page: Map Check
+[2017.10.14-15.23.08:170][183]LightingResults: New page: Lighting Build
+[2017.10.14-15.23.08:258][183]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-15.23.08:258][183]LogAIModule: Creating AISystem for world DeadScreen
+[2017.10.14-15.23.08:307][183]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-15.23.08:448][183]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 140.289ms to complete.
+[2017.10.14-15.23.08:450][183]LogFileHelpers: Loading map 'DeadScreen' took 0.319
+[2017.10.14-15.24.05:788][813]LogEditorTransaction: Undo Resize Widget
+[2017.10.14-15.24.06:578][897]LogEditorTransaction: Undo Resize Widget
+[2017.10.14-15.24.31:508][825]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_238' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:511][825]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_240' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:521][826]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_242' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:523][826]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_244' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:529][827]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_246' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:532][827]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_248' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:539][828]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_250' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:547][829]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_252' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:556][830]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_254' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:564][831]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_256' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:573][832]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_258' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:581][833]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_260' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:589][834]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_262' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:597][835]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_264' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:606][836]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_266' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:614][837]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_268' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:622][838]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_270' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:631][839]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_272' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:639][840]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_274' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:648][841]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_276' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:656][842]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_278' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:664][843]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_280' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.31:673][844]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_282' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:511][ 52]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_238' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:513][ 52]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_286' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:522][ 53]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_288' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:530][ 54]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_290' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:538][ 55]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_292' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:546][ 56]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_294' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:555][ 57]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_296' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:563][ 58]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_298' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:572][ 59]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_300' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:580][ 60]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_302' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:588][ 61]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_304' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:596][ 62]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_306' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:605][ 63]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_308' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:613][ 64]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_310' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:621][ 65]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_312' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:630][ 66]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_314' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:638][ 67]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_316' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:646][ 68]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_318' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:655][ 69]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_320' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:663][ 70]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_322' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:671][ 71]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_324' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:680][ 72]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_326' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:688][ 73]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_328' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:696][ 74]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_330' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:705][ 75]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_332' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:713][ 76]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_334' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:721][ 77]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_336' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:729][ 78]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_338' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:738][ 79]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_340' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:746][ 80]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_342' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:755][ 81]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_344' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:763][ 82]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_346' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:771][ 83]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_348' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:780][ 84]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_350' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:788][ 85]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_352' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:796][ 86]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_354' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:805][ 87]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_356' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:813][ 88]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_358' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:821][ 89]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_360' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:830][ 90]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_362' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:838][ 91]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_364' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:846][ 92]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_366' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:855][ 93]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_368' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:863][ 94]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_370' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:871][ 95]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_372' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:880][ 96]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_374' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:888][ 97]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_376' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:897][ 98]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_378' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:905][ 99]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_380' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:913][100]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_382' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:921][101]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_384' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:930][102]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_386' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:938][103]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_388' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:946][104]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_390' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:955][105]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_392' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:963][106]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_394' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:971][107]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_396' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:979][108]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_398' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:988][109]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_400' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.33:996][110]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_402' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:005][111]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_404' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:013][112]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_406' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:021][113]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_408' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:030][114]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_410' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:038][115]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_412' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:046][116]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_414' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:055][117]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_416' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:063][118]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_418' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:071][119]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_420' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:080][120]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_422' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:088][121]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_424' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:096][122]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_426' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:105][123]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_428' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:113][124]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_430' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:122][125]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_432' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:130][126]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_434' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:138][127]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_436' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:146][128]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_438' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:155][129]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_440' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:163][130]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_442' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:171][131]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_444' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:180][132]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_446' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:188][133]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_448' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:196][134]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_450' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:205][135]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_452' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:213][136]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_454' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:221][137]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_456' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:230][138]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_458' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:238][139]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_460' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:246][140]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_462' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:255][141]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_464' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:263][142]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_466' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:272][143]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_468' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:280][144]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_470' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:288][145]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_472' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:296][146]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_474' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:324][147]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_476' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:331][148]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_478' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:340][149]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_480' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:348][150]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_482' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:356][151]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_484' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:365][152]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_486' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:373][153]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_488' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:381][154]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_490' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:390][155]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_492' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:398][156]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_494' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:406][157]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_496' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:415][158]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_498' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:423][159]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_500' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:431][160]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_502' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:440][161]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_504' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:448][162]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_506' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:456][163]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_508' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:464][164]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_510' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:473][165]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_512' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:481][166]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_514' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:489][167]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_516' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:498][168]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_518' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:506][169]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_520' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:515][170]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_522' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:523][171]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_524' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:531][172]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_526' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:539][173]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_528' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.24.34:548][174]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.TextBlock_530' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:742][106]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.RestartButton' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:744][106]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_217' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:753][107]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_219' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:760][108]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_221' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:762][108]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_223' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:769][109]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_225' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:778][110]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_227' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:786][111]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_229' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:794][112]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_231' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:803][113]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_233' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:811][114]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_235' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:819][115]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_237' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:827][116]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_239' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:829][116]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_241' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:837][117]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_243' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:844][118]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_245' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:846][118]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_247' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:854][119]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_249' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:862][120]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_251' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:870][121]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_253' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:878][122]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_255' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:887][123]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_257' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:895][124]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_259' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:903][125]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_261' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:912][126]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_263' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:920][127]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_265' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:928][128]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_267' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:936][129]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_269' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:945][130]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_271' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:953][131]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_273' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:961][132]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_275' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:970][133]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_277' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:978][134]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_279' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:987][135]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_281' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.16:995][136]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_283' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:003][137]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_285' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:011][138]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_287' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:020][139]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_289' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:028][140]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_291' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:036][141]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_293' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:045][142]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_295' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:053][143]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_297' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:061][144]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_299' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:070][145]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_301' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:078][146]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_303' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:086][147]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_305' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:095][148]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_307' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:103][149]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_309' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:112][150]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_311' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:120][151]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_313' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:128][152]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_315' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:136][153]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_317' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:145][154]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_319' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:153][155]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_321' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:162][156]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_323' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:170][157]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_325' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:178][158]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_327' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:187][159]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_329' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:195][160]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_331' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:203][161]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_333' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:211][162]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_335' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:220][163]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_337' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:228][164]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_339' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:236][165]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_341' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:245][166]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_343' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:253][167]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_345' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:261][168]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_347' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:270][169]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_349' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:278][170]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_351' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:286][171]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_353' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:295][172]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_355' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:303][173]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_357' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:312][174]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_359' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:320][175]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_361' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:329][176]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_363' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:337][177]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_365' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:345][178]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_367' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:354][179]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_369' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:362][180]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_371' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:370][181]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_373' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:379][182]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_375' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:387][183]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_377' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:395][184]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_379' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:403][185]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_381' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:412][186]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_383' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:420][187]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_385' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:428][188]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_387' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:437][189]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_389' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:445][190]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_391' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:453][191]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_393' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:462][192]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_395' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:470][193]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_397' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:478][194]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_399' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:486][195]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_401' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:488][195]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_403' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:495][196]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_405' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:503][197]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_407' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:512][198]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_409' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:520][199]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_411' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:529][200]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_413' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:537][201]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_415' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:545][202]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_417' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:553][203]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_419' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:562][204]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_421' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:570][205]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_423' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:578][206]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_425' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:587][207]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_427' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:595][208]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_429' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:603][209]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_431' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:612][210]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_433' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:620][211]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_435' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:629][212]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_437' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:638][213]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_439' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:646][214]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_441' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:655][215]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_443' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:663][216]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_445' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:671][217]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_447' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:680][218]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_449' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:688][219]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_451' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:696][220]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_453' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:704][221]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_455' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:713][222]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_457' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:721][223]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_459' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:730][224]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_461' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:738][225]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_463' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:746][226]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_465' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:755][227]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_467' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:763][228]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_469' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:771][229]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_471' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:780][230]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_473' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:788][231]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_475' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:798][232]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_477' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:806][233]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_479' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:816][234]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_481' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:824][235]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_483' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:855][236]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_485' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:863][237]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_487' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:872][238]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_489' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.17:880][239]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_491' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2017.10.14-15.25.24:325][991]BlueprintLog: New page: Compile DeadScreenW
+[2017.10.14-15.25.24:986][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DeadScreen/DeadScreenW" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/DeadScreen/DeadScreenW.uasset" SILENT=true
+[2017.10.14-15.25.25:001][ 29]LogSavePackage: Save=12.94ms
+[2017.10.14-15.25.25:001][ 29]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DeadScreenWF2680C214616D296466FFAA74F5C38A4.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/DeadScreen/DeadScreenW.uasset'
+[2017.10.14-15.25.25:004][ 29]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/DeadScreen/DeadScreenW.uasset
+[2017.10.14-15.25.58:211][923]BlueprintLog: New page: Compile DeadScreenW
+[2017.10.14-15.25.58:920][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DeadScreen/DeadScreenW" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/DeadScreen/DeadScreenW.uasset" SILENT=true
+[2017.10.14-15.25.58:995][  1]LogSavePackage: Save=66.17ms
+[2017.10.14-15.25.58:995][  1]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DeadScreenWF677BCE0464287581629BAB24B6877E1.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/DeadScreen/DeadScreenW.uasset'
+[2017.10.14-15.25.59:000][  1]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/DeadScreen/DeadScreenW.uasset
+[2017.10.14-15.26.10:306][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DeadScreen" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DeadScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-15.26.10:338][341]LogSavePackage: Save=5.60ms
+[2017.10.14-15.26.10:338][341]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DeadScreenDB9B998B4DAC601BE8026F8F0E4FA3C8.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DeadScreen.umap'
+[2017.10.14-15.26.10:341][341]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DeadScreen.umap
+[2017.10.14-15.26.12:185][548]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.14-15.26.12:207][548]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-15.26.12:207][548]LightingResults: New page: Lighting Build
+[2017.10.14-15.26.12:207][548]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.10.14-15.26.12:208][548]MapCheck: New page: Map Check
+[2017.10.14-15.26.12:208][548]LightingResults: New page: Lighting Build
+[2017.10.14-15.26.12:277][548]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-15.26.12:322][548]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-15.26.12:453][548]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 131.204ms to complete.
+[2017.10.14-15.26.12:455][548]LogFileHelpers: Loading map 'MainMenu' took 0.249
+[2017.10.14-15.26.29:222][410]LogAIModule: Creating AISystem for world DeadScreen
+[2017.10.14-15.26.29:247][410]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DeadScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-15.26.29:247][410]LightingResults: New page: Lighting Build
+[2017.10.14-15.26.29:248][410]LoadErrors: New page: Loading map: DeadScreen.umap
+[2017.10.14-15.26.29:352][410]MapCheck: New page: Map Check
+[2017.10.14-15.26.29:352][410]LightingResults: New page: Lighting Build
+[2017.10.14-15.26.29:419][410]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-15.26.29:469][410]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-15.26.29:605][410]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 135.047ms to complete.
+[2017.10.14-15.26.29:605][410]LogFileHelpers: Loading map 'DeadScreen' took 0.359
+[2017.10.14-15.26.46:531][341]BlueprintLog: New page: Compile DeadScreen
+[2017.10.14-15.26.47:629][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DeadScreen" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DeadScreen.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-15.26.47:679][453]LogSavePackage: Save=24.92ms
+[2017.10.14-15.26.47:679][453]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DeadScreenF17A5039441D98028B6F4DB01F469938.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DeadScreen.umap'
+[2017.10.14-15.26.47:684][453]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DeadScreen.umap
+[2017.10.14-15.26.47:711][453]LogFileHelpers: Saving map 'DeadScreen' took 0.208
+[2017.10.14-15.26.49:549][670]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-15.26.49:576][670]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/DeadScreen.DeadScreen:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DeadScreen.DeadScreen:PersistentLevel.DeadScreen' with GeneratedClass '/Game/Maps/DeadScreen.DeadScreen_C' with ClassGeneratedBy '/Game/Maps/DeadScreen.DeadScreen:PersistentLevel.DeadScreen'
+[2017.10.14-15.26.49:576][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-15.26.49:576][670]LogHMD: Initializing OVRPlugin session
+[2017.10.14-15.26.49:596][670]PIE: New page: PIE session: DeadScreen (Oct 14, 2017, 7:26:49 PM)
+[2017.10.14-15.26.49:596][670]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DeadScreen
+[2017.10.14-15.26.49:597][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000929s)
+[2017.10.14-15.26.49:597][670]LogAIModule: Creating AISystem for world DeadScreen
+[2017.10.14-15.26.49:597][670]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2017.10.14-15.26.49:597][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DeadScreen.DeadScreen to /Game/Maps/UEDPIE_0_DeadScreen.DeadScreen (0.001743s)
+[2017.10.14-15.26.49:627][670]LogInit: XAudio2 using 'Lautsprecher (Sound Blaster E5)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.14-15.26.49:639][670]LogInit: FAudioDevice initialized.
+[2017.10.14-15.26.49:672][670]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.14-15.26.49:674][670]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DeadScreen.DeadScreen up for play (max tick rate 0) at 2017.10.14-17.26.49
+[2017.10.14-15.26.49:674][670]LogWorld: Bringing up level for play took: 0.000831
+[2017.10.14-15.26.49:700][670]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.26.49:700][670]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.26.49:700][670]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.26.49:727][670]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.26.49:727][670]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DeadScreen -0.37
+[2017.10.14-15.26.49:727][670]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/DeadScreen.DeadScreen:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DeadScreen.DeadScreen:PersistentLevel.DeadScreen' with GeneratedClass '/Game/Maps/DeadScreen.DeadScreen_C' with ClassGeneratedBy '/Game/Maps/DeadScreen.DeadScreen:PersistentLevel.DeadScreen'
+[2017.10.14-15.26.54:913][273]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/DeadScreen.DeadScreen:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DeadScreen.DeadScreen:PersistentLevel.DeadScreen' with GeneratedClass '/Game/Maps/DeadScreen.DeadScreen_C' with ClassGeneratedBy '/Game/Maps/DeadScreen.DeadScreen:PersistentLevel.DeadScreen'
+[2017.10.14-15.26.54:953][273]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/DeadScreen.DeadScreen:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DeadScreen.DeadScreen:PersistentLevel.DeadScreen' with GeneratedClass '/Game/Maps/DeadScreen.DeadScreen_C' with ClassGeneratedBy '/Game/Maps/DeadScreen.DeadScreen:PersistentLevel.DeadScreen'
+[2017.10.14-15.26.58:826][724]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.14-15.26.58:849][724]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-15.26.58:849][724]LightingResults: New page: Lighting Build
+[2017.10.14-15.26.58:850][724]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.10.14-15.26.58:889][724]MapCheck: New page: Map Check
+[2017.10.14-15.26.58:889][724]LightingResults: New page: Lighting Build
+[2017.10.14-15.26.58:957][724]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-15.26.59:003][724]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-15.26.59:130][724]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 127.114ms to complete.
+[2017.10.14-15.26.59:131][724]LogFileHelpers: Loading map 'MainMenu' took 0.283
+[2017.10.14-15.27.01:537][977]LogAIModule: Creating AISystem for world DoubtfulWay
+[2017.10.14-15.27.01:581][977]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-15.27.01:582][977]LightingResults: New page: Lighting Build
+[2017.10.14-15.27.01:582][977]LoadErrors: New page: Loading map: DoubtfulWay.umap
+[2017.10.14-15.27.01:583][977]MapCheck: New page: Map Check
+[2017.10.14-15.27.01:583][977]LightingResults: New page: Lighting Build
+[2017.10.14-15.27.01:696][977]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-15.27.01:747][977]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-15.27.01:881][977]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 133.475ms to complete.
+[2017.10.14-15.27.01:882][977]LogFileHelpers: Loading map 'DoubtfulWay' took 0.301
+[2017.10.14-15.27.03:223][124]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-15.27.03:255][124]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-15.27.03:255][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-15.27.03:255][124]LogHMD: Initializing OVRPlugin session
+[2017.10.14-15.27.03:278][124]PIE: New page: PIE session: DoubtfulWay (Oct 14, 2017, 7:27:03 PM)
+[2017.10.14-15.27.03:278][124]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DoubtfulWay
+[2017.10.14-15.27.03:440][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.161608s)
+[2017.10.14-15.27.03:441][124]LogAIModule: Creating AISystem for world DoubtfulWay
+[2017.10.14-15.27.03:441][124]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2017.10.14-15.27.03:441][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DoubtfulWay.DoubtfulWay to /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay (0.162780s)
+[2017.10.14-15.27.03:472][124]LogInit: XAudio2 using 'Lautsprecher (Sound Blaster E5)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.14-15.27.03:483][124]LogInit: FAudioDevice initialized.
+[2017.10.14-15.27.03:516][124]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.14-15.27.03:527][124]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay up for play (max tick rate 0) at 2017.10.14-17.27.03
+[2017.10.14-15.27.03:528][124]LogWorld: Bringing up level for play took: 0.012244
+[2017.10.14-15.27.03:529][124]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.27.03:529][124]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.27.03:529][124]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.27.03:530][124]Cmd: stat FPS
+[2017.10.14-15.27.03:530][124]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.27.03:530][124]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DoubtfulWay -0.567
+[2017.10.14-15.27.03:531][124]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-15.27.12:794][193]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.14-15.27.12:794][193]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.14-15.27.12:794][193]LogNet: Browse: /Game/Maps/DeadScreen
+[2017.10.14-15.27.12:794][193]LogLoadingSplash: Loading begins
+[2017.10.14-15.27.12:826][193]LogHMD: FSplash::OnShow
+[2017.10.14-15.27.12:851][193]LogLoad: LoadMap: /Game/Maps/DeadScreen
+[2017.10.14-15.27.12:881][193]Cmd: MEM
+[2017.10.14-15.27.12:902][193]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-15.27.12:902][193]LogMemory: Process Physical Memory: 1899.23 MB used, 1909.26 MB peak
+[2017.10.14-15.27.12:902][193]LogMemory: Process Virtual Memory: 3067.36 MB used, 3084.59 MB peak
+[2017.10.14-15.27.12:902][193]LogMemory: Physical Memory: 7515.55 MB used,  12899.58 MB free, 20415.13 MB total
+[2017.10.14-15.27.12:902][193]LogMemory: Virtual Memory: 3998.82 MB used,  12899.58 MB free, 134217728.00 MB total
+[2017.10.14-15.27.12:902][193]LogMemory: 
+[2017.10.14-15.27.12:902][193]Allocator Stats for TBB: (not implemented)
+[2017.10.14-15.27.16:820][193]LogAIModule: Creating AISystem for world DeadScreen
+[2017.10.14-15.27.16:820][193]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.14-15.27.16:822][193]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DeadScreen.DeadScreen up for play (max tick rate 0) at 2017.10.14-17.27.16
+[2017.10.14-15.27.16:822][193]LogWorld: Bringing up level for play took: 0.001154
+[2017.10.14-15.27.16:822][193]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.14-15.27.16:823][193]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.27.16:823][193]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.27.16:823][193]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.27.16:824][193]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.27.16:824][193]LogLoadingSplash: Loading ends
+[2017.10.14-15.27.16:825][193]LogHMD: FSplash::OnHide
+[2017.10.14-15.27.16:825][193]LogLoad: Took 3.973419 seconds to LoadMap(/Game/Maps/DeadScreen)
+[2017.10.14-15.27.32:928][ 90]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.14-15.27.32:928][ 90]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.14-15.27.32:929][ 90]LogNet: Browse: /Game/Maps/DoubtfulWay
+[2017.10.14-15.27.32:929][ 90]LogLoadingSplash: Loading begins
+[2017.10.14-15.27.32:929][ 90]LogHMD: FSplash::OnShow
+[2017.10.14-15.27.32:929][ 90]LogLoad: LoadMap: /Game/Maps/DoubtfulWay
+[2017.10.14-15.27.32:951][ 90]Cmd: MEM
+[2017.10.14-15.27.32:970][ 90]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-15.27.32:971][ 90]LogMemory: Process Physical Memory: 2486.54 MB used, 2838.46 MB peak
+[2017.10.14-15.27.32:971][ 90]LogMemory: Process Virtual Memory: 3502.89 MB used, 4026.86 MB peak
+[2017.10.14-15.27.32:971][ 90]LogMemory: Physical Memory: 8019.33 MB used,  12395.80 MB free, 20415.13 MB total
+[2017.10.14-15.27.32:971][ 90]LogMemory: Virtual Memory: 4486.01 MB used,  12395.80 MB free, 134217728.00 MB total
+[2017.10.14-15.27.32:971][ 90]LogMemory: 
+[2017.10.14-15.27.32:971][ 90]Allocator Stats for TBB: (not implemented)
+[2017.10.14-15.27.32:971][ 90]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DoubtfulWay
+[2017.10.14-15.27.33:121][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149936s)
+[2017.10.14-15.27.33:122][ 90]LogAIModule: Creating AISystem for world DoubtfulWay
+[2017.10.14-15.27.33:122][ 90]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2017.10.14-15.27.33:122][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DoubtfulWay.DoubtfulWay to /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay (0.151336s)
+[2017.10.14-15.27.33:122][ 90]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.14-15.27.33:132][ 90]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay up for play (max tick rate 0) at 2017.10.14-17.27.33
+[2017.10.14-15.27.33:133][ 90]LogWorld: Bringing up level for play took: 0.009854
+[2017.10.14-15.27.33:133][ 90]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.14-15.27.33:134][ 90]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.27.33:134][ 90]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.27.33:134][ 90]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.27.33:134][ 90]Cmd: stat FPS
+[2017.10.14-15.27.33:135][ 90]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.27.33:135][ 90]LogLoadingSplash: Loading ends
+[2017.10.14-15.27.33:135][ 90]LogHMD: FSplash::OnHide
+[2017.10.14-15.27.33:137][ 90]LogLoad: Took 0.207329 seconds to LoadMap(/Game/Maps/UEDPIE_0_DoubtfulWay)
+[2017.10.14-15.28.30:651][839]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.14-15.28.30:651][839]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.14-15.28.30:652][839]LogNet: Browse: /Game/Maps/DeadScreen
+[2017.10.14-15.28.30:652][839]LogLoadingSplash: Loading begins
+[2017.10.14-15.28.30:652][839]LogHMD: FSplash::OnShow
+[2017.10.14-15.28.30:652][839]LogLoad: LoadMap: /Game/Maps/DeadScreen
+[2017.10.14-15.28.30:683][839]Cmd: MEM
+[2017.10.14-15.28.30:701][839]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-15.28.30:701][839]LogMemory: Process Physical Memory: 2483.86 MB used, 2838.46 MB peak
+[2017.10.14-15.28.30:701][839]LogMemory: Process Virtual Memory: 3523.36 MB used, 4026.86 MB peak
+[2017.10.14-15.28.30:701][839]LogMemory: Physical Memory: 7984.17 MB used,  12430.96 MB free, 20415.13 MB total
+[2017.10.14-15.28.30:701][839]LogMemory: Virtual Memory: 4486.57 MB used,  12430.96 MB free, 134217728.00 MB total
+[2017.10.14-15.28.30:701][839]LogMemory: 
+[2017.10.14-15.28.30:701][839]Allocator Stats for TBB: (not implemented)
+[2017.10.14-15.28.30:717][839]LogAIModule: Creating AISystem for world DeadScreen
+[2017.10.14-15.28.30:717][839]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.14-15.28.30:718][839]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DeadScreen.DeadScreen up for play (max tick rate 0) at 2017.10.14-17.28.30
+[2017.10.14-15.28.30:719][839]LogWorld: Bringing up level for play took: 0.000951
+[2017.10.14-15.28.30:719][839]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.14-15.28.30:719][839]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.28.30:719][839]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.28.30:719][839]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.28.30:721][839]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.28.30:721][839]LogLoadingSplash: Loading ends
+[2017.10.14-15.28.30:721][839]LogHMD: FSplash::OnHide
+[2017.10.14-15.28.30:721][839]LogLoad: Took 0.069627 seconds to LoadMap(/Game/Maps/DeadScreen)
+[2017.10.14-15.28.33:839][204]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.14-15.28.33:839][204]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.14-15.28.33:839][204]LogNet: Browse: /Game/Maps/DoubtfulWay
+[2017.10.14-15.28.33:839][204]LogLoadingSplash: Loading begins
+[2017.10.14-15.28.33:840][204]LogHMD: FSplash::OnShow
+[2017.10.14-15.28.33:840][204]LogLoad: LoadMap: /Game/Maps/DoubtfulWay
+[2017.10.14-15.28.33:860][204]Cmd: MEM
+[2017.10.14-15.28.33:878][204]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-15.28.33:878][204]LogMemory: Process Physical Memory: 2481.05 MB used, 2838.46 MB peak
+[2017.10.14-15.28.33:878][204]LogMemory: Process Virtual Memory: 3513.79 MB used, 4026.86 MB peak
+[2017.10.14-15.28.33:878][204]LogMemory: Physical Memory: 7983.54 MB used,  12431.59 MB free, 20415.13 MB total
+[2017.10.14-15.28.33:878][204]LogMemory: Virtual Memory: 4490.57 MB used,  12431.59 MB free, 134217728.00 MB total
+[2017.10.14-15.28.33:878][204]LogMemory: 
+[2017.10.14-15.28.33:878][204]Allocator Stats for TBB: (not implemented)
+[2017.10.14-15.28.33:878][204]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DoubtfulWay
+[2017.10.14-15.28.34:017][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.138487s)
+[2017.10.14-15.28.34:017][204]LogAIModule: Creating AISystem for world DoubtfulWay
+[2017.10.14-15.28.34:017][204]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2017.10.14-15.28.34:018][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DoubtfulWay.DoubtfulWay to /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay (0.139684s)
+[2017.10.14-15.28.34:018][204]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.14-15.28.34:028][204]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay up for play (max tick rate 0) at 2017.10.14-17.28.34
+[2017.10.14-15.28.34:029][204]LogWorld: Bringing up level for play took: 0.009816
+[2017.10.14-15.28.34:029][204]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.14-15.28.34:029][204]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.28.34:029][204]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.28.34:029][204]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.28.34:030][204]Cmd: stat FPS
+[2017.10.14-15.28.34:030][204]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.28.34:030][204]LogLoadingSplash: Loading ends
+[2017.10.14-15.28.34:030][204]LogHMD: FSplash::OnHide
+[2017.10.14-15.28.34:031][204]LogLoad: Took 0.191088 seconds to LoadMap(/Game/Maps/UEDPIE_0_DoubtfulWay)
+[2017.10.14-15.28.34:938][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-15.28.34:976][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-15.38.21:406][797]BlueprintLog: New page: Compile DoubtfulWay
+[2017.10.14-15.38.22:278][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DoubtfulWay" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-15.38.23:773][888]LogSavePackage: Save=1346.75ms
+[2017.10.14-15.38.23:773][888]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWay7B280B674F981F362EAD2080A6D20CD0.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap'
+[2017.10.14-15.38.23:778][888]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap
+[2017.10.14-15.38.23:809][888]LogFileHelpers: Saving map 'DoubtfulWay' took 1.605
+[2017.10.14-15.38.36:726][418]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.14-15.38.36:750][418]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-15.38.36:750][418]LightingResults: New page: Lighting Build
+[2017.10.14-15.38.36:751][418]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.10.14-15.38.36:795][418]MapCheck: New page: Map Check
+[2017.10.14-15.38.36:795][418]LightingResults: New page: Lighting Build
+[2017.10.14-15.38.36:882][418]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-15.38.36:927][418]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-15.38.36:998][418]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.925ms to complete.
+[2017.10.14-15.38.36:999][418]LogFileHelpers: Loading map 'MainMenu' took 0.250
+[2017.10.14-15.38.50:896][ 65]BlueprintLog: New page: Compile DeadScreenW
+[2017.10.14-15.38.51:886][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DeadScreen/DeadScreenW" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/DeadScreen/DeadScreenW.uasset" SILENT=true
+[2017.10.14-15.38.51:916][173]LogSavePackage: Save=23.49ms
+[2017.10.14-15.38.51:916][173]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DeadScreenW82ACCBCF4F7DEDCF6A2D83AA69FEDC6D.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/DeadScreen/DeadScreenW.uasset'
+[2017.10.14-15.38.51:920][173]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/DeadScreen/DeadScreenW.uasset
+[2017.10.14-15.38.54:490][475]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-15.38.54:514][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.14-15.38.54:514][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-15.38.54:514][475]LogHMD: Initializing OVRPlugin session
+[2017.10.14-15.38.54:540][475]PIE: New page: PIE session: MainMenu (Oct 14, 2017, 7:38:54 PM)
+[2017.10.14-15.38.54:540][475]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.10.14-15.38.54:541][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000945s)
+[2017.10.14-15.38.54:541][475]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.14-15.38.54:541][475]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2017.10.14-15.38.54:542][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001852s)
+[2017.10.14-15.38.54:573][475]LogInit: XAudio2 using 'Lautsprecher (Sound Blaster E5)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.14-15.38.54:583][475]LogInit: FAudioDevice initialized.
+[2017.10.14-15.38.54:617][475]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.14-15.38.54:619][475]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.10.14-17.38.54
+[2017.10.14-15.38.54:619][475]LogWorld: Bringing up level for play took: 0.000991
+[2017.10.14-15.38.54:620][475]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.38.54:620][475]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.38.54:620][475]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.38.54:622][475]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.38.54:622][475]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.525
+[2017.10.14-15.38.54:622][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.14-15.38.57:270][784]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.14-15.38.57:270][784]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.14-15.38.57:270][784]LogNet: Browse: /Game/Maps/DoubtfulWay
+[2017.10.14-15.38.57:270][784]LogLoadingSplash: Loading begins
+[2017.10.14-15.38.57:270][784]LogHMD: FSplash::OnShow
+[2017.10.14-15.38.57:270][784]LogLoad: LoadMap: /Game/Maps/DoubtfulWay
+[2017.10.14-15.38.57:290][784]Cmd: MEM
+[2017.10.14-15.38.57:307][784]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-15.38.57:307][784]LogMemory: Process Physical Memory: 2434.33 MB used, 2838.46 MB peak
+[2017.10.14-15.38.57:307][784]LogMemory: Process Virtual Memory: 3518.64 MB used, 4026.86 MB peak
+[2017.10.14-15.38.57:307][784]LogMemory: Physical Memory: 8510.46 MB used,  11904.68 MB free, 20415.13 MB total
+[2017.10.14-15.38.57:307][784]LogMemory: Virtual Memory: 4468.57 MB used,  11904.68 MB free, 134217728.00 MB total
+[2017.10.14-15.38.57:307][784]LogMemory: 
+[2017.10.14-15.38.57:307][784]Allocator Stats for TBB: (not implemented)
+[2017.10.14-15.38.57:899][784]LogAIModule: Creating AISystem for world DoubtfulWay
+[2017.10.14-15.38.57:899][784]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.14-15.38.57:914][784]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay up for play (max tick rate 0) at 2017.10.14-17.38.57
+[2017.10.14-15.38.57:915][784]LogWorld: Bringing up level for play took: 0.014458
+[2017.10.14-15.38.57:915][784]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.14-15.38.57:915][784]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.38.57:915][784]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-15.38.57:915][784]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.38.57:916][784]Cmd: stat FPS
+[2017.10.14-15.38.57:916][784]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-15.38.57:916][784]LogLoadingSplash: Loading ends
+[2017.10.14-15.38.57:916][784]LogHMD: FSplash::OnHide
+[2017.10.14-15.38.57:916][784]LogLoad: Took 0.645810 seconds to LoadMap(/Game/Maps/DoubtfulWay)
+[2017.10.14-15.39.01:455][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.14-15.39.01:496][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.14-15.39.23:938][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2017.10.14-15.39.23:972][828]LogSavePackage: Save=26.63ms
+[2017.10.14-15.39.23:972][828]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/UEDPCMainMenu7327D13D4ED40A2595859CB75D168094.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2017.10.14-15.39.23:974][828]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2017.10.14-15.39.23:979][828]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.10.14-15.39.23:994][828]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.
+[2017.10.14-15.39.24:905][933]LogTemp: Repeating last play command: Standalone Game
+[2017.10.14-15.39.25:039][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2017.10.14-15.39.25:073][933]LogSavePackage: Save=27.75ms
+[2017.10.14-15.39.25:073][933]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/UEDPCMainMenuCFA30C6C4BC3146BF19EADB6DE7ACC0B.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2017.10.14-15.39.25:076][933]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2017.10.14-15.39.25:081][933]LogEditorTransaction: Undo Spawn Play From Here Start
+[2017.10.14-15.39.25:083][933]LogHMD: Warning: Standalone game VR not supported, please use VR Preview.

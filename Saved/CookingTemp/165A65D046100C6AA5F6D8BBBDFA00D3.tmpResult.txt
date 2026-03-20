@@ -1,0 +1,494 @@
+../../../Engine/Content/EditorResources/S_Actor.uasset
+../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset
+../../../Engine/Content/EngineResources/GradientTexture0.uasset
+../../../Engine/Content/EngineResources/Black.uasset
+../../../Engine/Content/EngineMeshes/Sphere.uasset
+../../../Engine/Content/EngineSounds/Master.uasset
+../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset
+../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset
+../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset
+../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset
+../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset
+../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset
+../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset
+../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset
+../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset
+../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset
+../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset
+../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset
+../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset
+../../../Engine/Content/EngineResources/DefaultTexture.uasset
+../../../Engine/Content/EngineResources/DefaultTextureCube.uasset
+../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset
+../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset
+../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset
+../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset
+../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset
+../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset
+../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset
+../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset
+../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset
+../../../Engine/Content/EditorResources/S_Trigger.uasset
+../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset
+../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset
+../../../Engine/Content/VREditor/TransformGizmo/Main.uasset
+../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset
+../../../Engine/Content/VREditor/ViewportInteractionAssetContainerData.uasset
+../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset
+../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset
+../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset
+../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset
+../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset
+../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset
+../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset
+../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset
+../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset
+../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset
+../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset
+../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset
+../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset
+../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset
+../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset
+../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset
+../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset
+../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset
+../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset
+../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset
+../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset
+../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset
+../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset
+../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset
+../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset
+../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset
+../../../Engine/Content/EngineFonts/Roboto.uasset
+../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset
+../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset
+../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset
+../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset
+../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset
+../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset
+../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset
+../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset
+../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset
+../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset
+../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset
+../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset
+../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset
+../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset
+../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset
+../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset
+../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset
+../../../Engine/Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset
+../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset
+../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset
+../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset
+../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset
+../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset
+../../../Engine/Content/VREditor/VREditorAssetContainerData.uasset
+../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset
+../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset
+../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset
+../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset
+../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset
+../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset
+../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset
+../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset
+../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset
+../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset
+../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset
+../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset
+../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset
+../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset
+../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset
+../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset
+../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset
+../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset
+../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset
+../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset
+../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset
+../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset
+../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset
+../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset
+../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset
+../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset
+../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset
+../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset
+../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset
+../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset
+../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset
+../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset
+../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset
+../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset
+../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset
+../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset
+../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset
+../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset
+../../../Engine/Content/VREditor/UI/DiscMaterial.uasset
+../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset
+../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset
+../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset
+../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset
+../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset
+../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset
+../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset
+../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset
+../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset
+../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset
+../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset
+../../../Engine/Content/Tutorial/ContentIntroCurve.uasset
+../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset
+../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset
+../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset
+../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset
+../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset
+../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset
+../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset
+../../../Engine/Content/EngineMeshes/Cylinder.uasset
+../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset
+../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset
+../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset
+../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset
+../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset
+../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset
+../../../Engine/Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset
+../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset
+../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset
+../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset
+../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset
+../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset
+../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset
+../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset
+../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset
+../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset
+../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset
+../../../Engine/Content/EngineMaterials/MiniFont.uasset
+../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset
+../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset
+../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset
+../../../Engine/Content/EngineFonts/RobotoTiny.uasset
+../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset
+../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset
+../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset
+../../../Engine/Content/BasicShapes/Cube.uasset
+../../../Engine/Content/BasicShapes/Sphere.uasset
+../../../Engine/Content/BasicShapes/Cylinder.uasset
+../../../Engine/Content/BasicShapes/Cone.uasset
+../../../Engine/Content/BasicShapes/Plane.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Explosion_SubUV.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Fire_SubUV.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Fire_Tiled_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Frame_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Frame_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Gradinet_01.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Ground_Grass_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Ground_Grass_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Ground_Gravel_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Ground_Gravel_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_ground_Moss_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Ground_Moss_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Lamp_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Lamp_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_MacroVariation.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Metal_Aluminum_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Metal_Copper_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Metal_Gold_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Metal_Gold_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Metal_Rust_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Metal_Rust_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Metal_Steel_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Metal_Steel_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Perlin_Noise_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_RockMesh_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_RockMesh_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Rock_Basalt_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Rock_Basalt_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Rock_Sandstone_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Rock_Sandstone_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Rock_Slate_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Rock_Slate_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Shelf_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Shelf_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Single_Tile_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Smoke_SubUV.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Smoke_Tiled_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Spark_Core.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Statue_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Statue_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_TableRound_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_TableRound_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Tech_Dot_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Tech_Dot_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Tech_Panel_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Tech_Panel_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Water_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Water_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Wood_Oak_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Wood_Oak_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Wood_Pine_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Wood_Pine_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Wood_Walnut_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Wood_Walnut_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Materials/M_Brick_Hewn_Stone.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Detail_Rocky_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/StarterContent/Materials/M_Metal_Steel.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Materials/M_Metal_Steel.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/StarterContent/Particles/P_Ambient_Dust.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Particles/P_Ambient_Dust.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Particles/Materials/M_Dust_Particle.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Textures/T_Dust_Particle_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/WinScreen/WinScreenW.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/DoubtfulWayKorridor.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/MainMenu/MainMenuW.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Maps/DoubtfulWay.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/MainMenu/LevelSelection/LevelSelectionL.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/MainMenu/LevelSelection/LevelSelection.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Controls.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Controls/ControlsW.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Credits.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Credits/CreditsW.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DeadScreen.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/DeadScreen/DeadScreenW.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/EscMenu.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/ESCMenu/EscMenu.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/SaveGame/MYSaveGame.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Intro.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Level2.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Blueprints/ThirdPersonCharacter.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/ThirdPersonWalk.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Animations/FirstPerson_Idle.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Animations/FirstPerson_Run.uasset
+../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset
+../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset
+../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset
+../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Messages/ausdauerW.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Audio/Collapse01.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset
+../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/aiNearW.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Level2_BuiltData.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/StarterContent/Materials/M_Rock_Sandstone.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Music/All-in-One_wav.uasset
+../../../Engine/Content/EditorResources/EmptyActor.uasset
+../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset
+../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/SelectLevel.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/SelectLevel/SelectLevelW.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/WinScreen.umap
+../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset
+../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset
+../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset
+../../../Engine/Content/EngineSky/SM_SkySphere.uasset
+../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset
+../../../Engine/Content/EngineSky/T_Sky_Blue.uasset
+../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset
+../../../Engine/Content/EngineSky/T_Sky_Stars.uasset
+../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset
+../../../Engine/Content/TemplateResources/M_Template_Master.uasset
+../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Showcase.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Equip_Pistol_Standing.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Fire_Rifle_Ironsights.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Hit_React_1.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Hit_React_2.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Hit_React_3.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Reload_Rifle_Hip.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Starter/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset
+../../../Engine/Content/Maps/Entry.umap
+../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset
+../../../Engine/Content/MobileResources/T_MobileMenu2.uasset
+../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset
+../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset
+../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset
+../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset
+../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset
+../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset
+../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset
+../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset
+../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset
+../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset
+../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset
+../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset
+../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset
+../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset
+../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset
+../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset
+../../../Engine/Content/EditorResources/BSPVertex.uasset
+../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset
+../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset
+../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset
+../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset
+../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset
+../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset
+../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset
+../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset
+../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset
+../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay_BuiltData.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu_BuiltData.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset
+../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset
+../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset
+../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset
+../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset
+../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset
+../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset
+../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset
+../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset
+../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset
+../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset
+../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset
+../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset
+../../../Engine/Content/EngineMeshes/Cube.uasset
+../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset
+../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset
+../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset
+../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset
+../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset
+../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset
+../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset
+../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset
+../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset
+../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset
+../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset
+../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset
+../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset
+../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset
+../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset
+../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset
+../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset
+../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset
+../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset
+../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset
+../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset
+../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset
+../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Level3.umap
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Level3_BuiltData.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/IceTexture/Ice_M.uasset
+../../../Engine/Content/MapTemplates/TilingNoise05.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/IceTexture/Rock_N_T.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/IceTexture/Snow_N_T.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/IceTexture/IceTess_M.uasset
+D:/Unreal Projekte/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Loading.umap
+../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset
+../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset
+../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset
+

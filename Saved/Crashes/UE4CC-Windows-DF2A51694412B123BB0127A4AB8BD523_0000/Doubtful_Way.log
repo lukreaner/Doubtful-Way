@@ -1,0 +1,722 @@
+﻿Log file open, 10/14/17 12:36:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Doubtful_Way
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(592710496) SRandInit(592710496).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.231803
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: W:/UnrealEngine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.14-10.36.30:740][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.14-10.36.30:740][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.14-10.36.30:840][  0]LogInit: Computer: JAN-LUKASPC
+[2017.10.14-10.36.30:840][  0]LogInit: User: janl
+[2017.10.14-10.36.30:840][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.14-10.36.30:840][  0]LogInit: High frequency timer resolution =3.320327 MHz
+[2017.10.14-10.36.30:840][  0]LogMemory: Memory total: Physical=19.9GB (20GB approx)
+[2017.10.14-10.36.30:859][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-10.36.30:860][  0]LogMemory: Process Physical Memory: 283.68 MB used, 283.68 MB peak
+[2017.10.14-10.36.30:860][  0]LogMemory: Process Virtual Memory: 277.82 MB used, 277.82 MB peak
+[2017.10.14-10.36.30:860][  0]LogMemory: Physical Memory: 3555.33 MB used,  16859.80 MB free, 20415.13 MB total
+[2017.10.14-10.36.30:860][  0]LogMemory: Virtual Memory: 688.36 MB used,  16859.80 MB free, 134217728.00 MB total
+[2017.10.14-10.36.31:599][  0]LogInit: Using OS detected language (de-DE).
+[2017.10.14-10.36.31:599][  0]LogInit: Using OS detected locale (de-DE).
+[2017.10.14-10.36.32:036][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2017.10.14-10.36.32:036][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the locale.
+[2017.10.14-10.36.35:806][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.14-10.36.35:850][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.10.14-10.36.35:850][  0]LogD3D11RHI:       8096/0/10207 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.14-10.36.35:860][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.14-10.36.35:860][  0]LogD3D11RHI:       0/0/10207 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.14-10.36.35:860][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.14-10.36.35:890][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.14-10.36.35:890][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.14-10.36.35:890][  0]LogWindows: EnumDisplayDevices:
+[2017.10.14-10.36.35:890][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.10.14-10.36.35:890][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.14-10.36.35:891][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.14-10.36.35:891][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.10.14-10.36.35:891][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.10.14-10.36.35:891][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.10.14-10.36.35:893][  0]LogD3D11RHI:   Driver Version: 387.92 (internal:23.21.13.8792, unified:387.92)
+[2017.10.14-10.36.35:893][  0]LogD3D11RHI:      Driver Date: 10-6-2017
+[2017.10.14-10.36.35:893][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.14-10.36.35:925][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.14-10.36.36:249][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.14-10.36.36:346][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (V:/Doubtful_Way/Doubtful_Way 4.17/Intermediate/Shaders/WorkingDirectory/4740/).
+[2017.10.14-10.36.36:346][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jan-l/AppData/Local/Temp/UnrealShaderWorkingDir/CCA5993E473CAD62F69E22912E66F867/'.
+[2017.10.14-10.36.36:365][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.14-10.36.39:245][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.14-10.36.39:284][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.14-10.36.39:322][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.14-10.36.39:361][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.14-10.36.39:455][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.14-10.36.39:494][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.14-10.36.39:532][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.14-10.36.39:571][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.14-10.36.39:606][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.14-10.36.39:648][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.14-10.36.39:691][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.14-10.36.39:732][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.14-10.36.39:770][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.14-10.36.39:810][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.14-10.36.39:849][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.14-10.36.39:927][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.14-10.36.39:927][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.14-10.36.39:958][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.14-10.36.40:105][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.14-10.36.40:130][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.14-10.36.40:175][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.14-10.36.40:217][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.14-10.36.40:256][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.14-10.36.40:302][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.14-10.36.40:302][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.14-10.36.41:521][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.14-10.36.41:899][  0]LogDerivedDataCache: Loaded boot cache 0.38s 105MB C:/Users/jan-l/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.14-10.36.41:899][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jan-l/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.14-10.36.41:899][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file V:/Doubtful_Way/Doubtful_Way 4.17/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.14-10.36.41:899][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.14-10.36.41:899][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file V:/Doubtful_Way/Doubtful_Way 4.17/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.14-10.36.41:899][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.14-10.36.41:985][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.14-10.36.42:000][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jan-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.14-10.36.42:078][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.14-10.36.42:154][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.14-10.36.42:245][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.14-10.36.42:246][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.14-10.36.51:033][  0]LogAssetRegistry: FAssetRegistry took 0.0315 seconds to start up
+[2017.10.14-10.36.51:960][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.14-10.36.56:408][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.14-10.36.57:406][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.14-10.36.57:462][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.14-10.36.57:463][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.14-10.36.57:464][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.14-10.36.57:464][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.14-10.36.57:464][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.14-10.37.00:592][  0]LogNetVersion: Doubtful_Way , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3037758569)
+[2017.10.14-10.37.02:279][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.077415 seconds
+[2017.10.14-10.37.02:287][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.14-10.37.02:287][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.10.14-10.37.02:287][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.14-10.37.02:372][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.14-10.37.30:467][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.14-10.37.30:529][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.14-10.37.32:284][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.14-10.37.33:207][  0]SourceControl: Source control is disabled
+[2017.10.14-10.37.33:207][  0]SourceControl: Source control is disabled
+[2017.10.14-10.37.33:292][  0]SourceControl: Source control is disabled
+[2017.10.14-10.37.33:396][  0]SourceControl: Source control is disabled
+[2017.10.14-10.37.34:408][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.14-10.37.34:709][  0]LogOcInput: OculusInput pre-init called
+[2017.10.14-10.37.35:496][  0]LogEngine: Initializing Engine...
+[2017.10.14-10.37.35:523][  0]LogHMD: Oculus plugin initialized. Version: 4.17.2-3658906+++UE4+Release-4.17, OVRPlugin: 1.15.0
+[2017.10.14-10.37.36:595][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.14-10.37.36:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.14-10.37.36:920][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.14-10.37.36:991][  0]LogInit: XAudio2 using 'Lautsprecher (Sound Blaster E5)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.14-10.37.37:016][  0]LogInit: FAudioDevice initialized.
+[2017.10.14-10.37.37:102][  0]LogDerivedDataCache: Saved boot cache 0.09s 92MB C:/Users/jan-l/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.14-10.37.37:254][  0]LogInit: Texture streaming: Enabled
+[2017.10.14-10.37.37:461][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.14-10.37.37:461][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={6C99B118-4847-C9BD-D6A1-49BF05F017E3}
+[2017.10.14-10.37.38:111][  0]LogInit: Transaction tracking system initialized
+[2017.10.14-10.37.38:658][  0]BlueprintLog: New page: Editor Load
+[2017.10.14-10.37.40:313][  0]LocalizationService: Localization service is disabled
+[2017.10.14-10.37.41:819][  0]LogConsoleResponse: Display: 
+[2017.10.14-10.37.44:104][  0]LogFileCache: Scanning file cache for directory 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/' took 0.02s
+[2017.10.14-10.37.44:104][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.14-10.37.44:104][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.14-10.37.44:144][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.14-10.37.48:048][  0]SourceControl: Source control is disabled
+[2017.10.14-10.37.48:099][  0]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-10.37.48:099][  0]LogEditorServer: Warning: Can't find file 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2017.10.14-10.37.48:109][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-10.37.48:176][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.429ms to complete.
+[2017.10.14-10.37.48:176][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.087
+[2017.10.14-10.37.50:041][  0]LogCollectionManager: Loaded 0 collections in 0.001305 seconds
+[2017.10.14-10.37.50:271][  0]LogFileCache: Scanning file cache for directory 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Collections/' took 0.01s
+[2017.10.14-10.37.50:271][  0]LogFileCache: Scanning file cache for directory 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Developers/janl/Collections/' took 0.01s
+[2017.10.14-10.37.50:271][  0]LogFileCache: Scanning file cache for directory 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Collections/' took 0.01s
+[2017.10.14-10.37.50:271][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.14-10.37.50:283][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2386 classes and 500 folders.
+[2017.10.14-10.37.50:397][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.10.14-10.37.51:581][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.10.14-10.37.51:666][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.14-10.37.54:883][  0]LogSlate: Took 0.014567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.14-10.37.54:913][  0]LogSlate: Took 0.018373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.14-10.37.55:018][  0]LogSlate: Took 0.017250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.14-10.37.55:597][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DoubtfulWay
+[2017.10.14-10.37.55:597][  0]LogTemp: CWD: W:\UnrealEngine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.14-10.37.55:597][  0]LogTemp: Initial Dir: W:\UnrealEngine\UE_4.17
+[2017.10.14-10.37.55:597][  0]LogTemp: Env CWD: W:\UnrealEngine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.14-10.37.55:597][  0]LogTemp: BranchPath = JAN-LUKASPC/W/UnrealEngine/UE_4.17/Engine/Binaries --- GameBranchPath = JAN-LUKASPC/W/UnrealEngine/UE_4.17/Engine/Binaries
+[2017.10.14-10.37.55:597][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\jan-l\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.10.14-10.37.55:597][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.10.14-10.37.56:027][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.14-10.37.56:028][  0]LogLoad: (Engine Initialization) Total time: 96.44 seconds
+[2017.10.14-10.37.56:028][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.14-10.37.56:042][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.10.14-10.37.56:384][  0]LogOcInput: OculusInput is initialized
+[2017.10.14-10.37.56:469][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.14-10.37.56:656][  0]LogSlate: Took 0.013878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.14-10.37.57:071][  2]LogAssetRegistry: Asset discovery search completed in 66.0623 seconds
+[2017.10.14-10.37.57:073][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.14-10.37.57:073][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2017.10.14-10.37.57:411][  3]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.14-10.39.14:126][276]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.14-10.39.15:035][276]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.14-10.39.15:383][276]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2017.10.14-10.39.16:992][276]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.14-10.39.22:870][276]LogAIModule: Creating AISystem for world StarterMap
+[2017.10.14-10.39.47:707][473]LogMetaData: Removing '/Game/Maps/Minimal_Default.Minimal_Default_C' ref from Metadata '/Game/StarterContent/Maps/Minimal_Default.PackageMetaData'
+[2017.10.14-10.39.47:707][473]LogMetaData: Removing '/Game/Maps/Minimal_Default.SKEL_Minimal_Default_C' ref from Metadata '/Game/StarterContent/Maps/Minimal_Default.PackageMetaData'
+[2017.10.14-10.39.47:733][473]LogMetaData: Removing '/Game/Maps/StarterMap.SKEL_StarterMap_C' ref from Metadata '/Game/StarterContent/Maps/StarterMap.PackageMetaData'
+[2017.10.14-10.39.47:733][473]LogMetaData: Removing '/Game/Maps/StarterMap.StarterMap_C' ref from Metadata '/Game/StarterContent/Maps/StarterMap.PackageMetaData'
+[2017.10.14-10.39.47:851][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Advanced_Lighting" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.39.47:946][473]LogSavePackage: Save=43.43ms
+[2017.10.14-10.39.47:946][473]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Advanced_Lighting2A29B4F448960F28C657368775AD05A1.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap'
+[2017.10.14-10.39.47:962][473]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap
+[2017.10.14-10.39.47:972][473]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.208
+[2017.10.14-10.39.47:974][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Advanced_Lighting_BuiltData" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting_BuiltData.uasset" SILENT=true
+[2017.10.14-10.39.47:999][473]LogSavePackage: Save=22.98ms
+[2017.10.14-10.39.47:999][473]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Advanced_Lighting_BuiltData8B3F27DC4E7CBF9CF03F959E300D01AC.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting_BuiltData.uasset'
+[2017.10.14-10.39.48:002][473]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting_BuiltData.uasset
+[2017.10.14-10.39.48:081][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Minimal_Default" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.39.48:196][473]LogSavePackage: Save=64.13ms
+[2017.10.14-10.39.48:196][473]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Minimal_Default1CF72E21499C79DA62A554BFA80A4507.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap'
+[2017.10.14-10.39.48:199][473]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap
+[2017.10.14-10.39.48:201][473]LogFileHelpers: Saving map 'Minimal_Default' took 0.196
+[2017.10.14-10.39.48:203][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Minimal_Default_BuiltData" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2017.10.14-10.39.48:238][473]LogSavePackage: Save=33.54ms
+[2017.10.14-10.39.48:239][473]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Minimal_Default_BuiltDataD35340C0426D29B671B587AA2074C92F.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default_BuiltData.uasset'
+[2017.10.14-10.39.48:241][473]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default_BuiltData.uasset
+[2017.10.14-10.39.48:322][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.39.48:777][473]LogSavePackage: Save=422.89ms
+[2017.10.14-10.39.48:777][473]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/StarterMap0E9A88F84D1B9FF1AE8A1F8ED6D594F8.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap'
+[2017.10.14-10.39.48:781][473]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap
+[2017.10.14-10.39.48:789][473]LogFileHelpers: Saving map 'StarterMap' took 0.545
+[2017.10.14-10.39.48:792][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap_BuiltData" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap_BuiltData.uasset" SILENT=true
+[2017.10.14-10.39.49:227][473]LogSavePackage: Save=432.72ms
+[2017.10.14-10.39.49:227][473]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/StarterMap_BuiltDataBEFC503B400C85D5F3DF68A2DF247CFC.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap_BuiltData.uasset'
+[2017.10.14-10.39.49:230][473]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap_BuiltData.uasset
+[2017.10.14-10.40.02:507][998]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.14-10.40.05:097][303]LogMetaData: Removing '/Game/Maps/MainMenu.MainMenu_C' ref from Metadata '/Game/MainMenu/MainMenu.PackageMetaData'
+[2017.10.14-10.40.05:097][303]LogMetaData: Removing '/Game/Maps/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/MainMenu/MainMenu.PackageMetaData'
+[2017.10.14-10.40.05:197][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.40.05:228][303]LogSavePackage: Save=18.08ms
+[2017.10.14-10.40.05:228][303]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/MainMenuCD99E6F24DC8B0972F5AB0A8DCEE0F38.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap'
+[2017.10.14-10.40.05:230][303]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap
+[2017.10.14-10.40.05:232][303]LogFileHelpers: Saving map 'MainMenu' took 0.118
+[2017.10.14-10.40.14:939][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Advanced_Lighting" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.40.15:176][183]LogSavePackage: Save=29.45ms
+[2017.10.14-10.40.15:176][183]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Advanced_LightingF3280E414AC6F7DF7C8D7098C14735F6.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap'
+[2017.10.14-10.40.15:179][183]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap
+[2017.10.14-10.40.15:181][183]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.325
+[2017.10.14-10.40.15:258][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Minimal_Default" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.40.15:334][183]LogSavePackage: Save=51.48ms
+[2017.10.14-10.40.15:334][183]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Minimal_Default71B656614DEEB09D57264DBA9AC28693.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap'
+[2017.10.14-10.40.15:338][183]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap
+[2017.10.14-10.40.15:339][183]LogFileHelpers: Saving map 'Minimal_Default' took 0.158
+[2017.10.14-10.40.15:418][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.40.15:883][183]LogSavePackage: Save=407.03ms
+[2017.10.14-10.40.15:883][183]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/StarterMap7E10D66049B690229E034BA7862240C8.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap'
+[2017.10.14-10.40.15:887][183]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap
+[2017.10.14-10.40.15:895][183]LogFileHelpers: Saving map 'StarterMap' took 0.555
+[2017.10.14-10.40.15:913][183]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-10.40.15:913][183]LightingResults: New page: Lighting Build
+[2017.10.14-10.40.15:960][183]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0007 seconds. Added 5 classes and 0 folders.
+[2017.10.14-10.40.15:961][183]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.10.14-10.40.15:970][183]MapCheck: New page: Map Check
+[2017.10.14-10.40.15:970][183]LightingResults: New page: Lighting Build
+[2017.10.14-10.40.26:028][183]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-10.40.26:102][183]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-10.40.26:184][183]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.858ms to complete.
+[2017.10.14-10.40.26:186][183]LogFileHelpers: Loading map 'MainMenu' took 10.290
+[2017.10.14-10.40.28:290][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.40.28:324][430]LogSavePackage: Save=18.80ms
+[2017.10.14-10.40.28:324][430]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/MainMenu7F8BA0774BF509D2A67290B41D19DEC5.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap'
+[2017.10.14-10.40.28:325][430]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap
+[2017.10.14-10.40.30:719][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Advanced_Lighting" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.40.30:764][540]LogSavePackage: Save=28.34ms
+[2017.10.14-10.40.30:764][540]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Advanced_Lighting04DDA95F4295004DBC6B54AFF7371507.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap'
+[2017.10.14-10.40.30:767][540]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap
+[2017.10.14-10.40.30:769][540]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.130
+[2017.10.14-10.40.30:848][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Minimal_Default" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.40.30:915][540]LogSavePackage: Save=51.43ms
+[2017.10.14-10.40.30:915][540]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Minimal_Default2DD668414527EE8B8562CDA2970F463C.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap'
+[2017.10.14-10.40.30:918][540]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap
+[2017.10.14-10.40.30:920][540]LogFileHelpers: Saving map 'Minimal_Default' took 0.151
+[2017.10.14-10.40.30:997][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.40.31:434][540]LogSavePackage: Save=410.40ms
+[2017.10.14-10.40.31:434][540]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/StarterMap176035864D58CB068745D5B08C912336.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap'
+[2017.10.14-10.40.31:438][540]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap
+[2017.10.14-10.40.31:445][540]LogFileHelpers: Saving map 'StarterMap' took 0.525
+[2017.10.14-10.40.31:449][540]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-10.40.31:449][540]LightingResults: New page: Lighting Build
+[2017.10.14-10.40.31:449][540]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.10.14-10.40.31:450][540]MapCheck: New page: Map Check
+[2017.10.14-10.40.31:450][540]LightingResults: New page: Lighting Build
+[2017.10.14-10.40.36:132][540]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.14-10.40.36:135][540]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-10.40.36:162][540]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-10.40.36:242][540]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.813ms to complete.
+[2017.10.14-10.40.36:243][540]LogFileHelpers: Loading map 'MainMenu' took 4.795
+[2017.10.14-10.40.41:309][768]MapCheck: New page: Map Check
+[2017.10.14-10.40.41:319][768]Cmd: MAP REBUILD ALLVISIBLE
+[2017.10.14-10.40.41:319][768]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.10.14-10.40.41:400][768]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2017.10.14-10.40.41:411][768]LightingResults: New page: Lighting Build - Oct 14, 2017, 2:40:41 PM
+[2017.10.14-10.40.41:538][768]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.14-10.40.41:632][768]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.14-10.40.41:641][768]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.14-10.40.42:154][768]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.14-10.40.42:154][768]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4740
+[2017.10.14-10.40.44:723][768]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.10.14-10.40.44:723][768]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.14-10.40.44:723][768]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.14-10.40.44:723][768]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.14-10.40.44:723][768]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.14-10.40.44:723][768]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.14-10.40.44:865][768]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.10.14-10.40.44:865][768]MapCheck: New page: MainMenu - Oct 14, 2017, 2:40:44 PM
+[2017.10.14-10.40.44:948][768]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.778ms to complete.
+[2017.10.14-10.40.44:969][768]LogEditorBuildUtils: Build time 0:03
+[2017.10.14-10.40.46:443][832]Job is a success!
+[2017.10.14-10.40.46:526][833]Lightmass on JAN-LUKASPC: 575 ms total, 62 ms importing, 8 ms setup, 270 ms photons, 208 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 1.29 sec total, 0 ms processing.
+[2017.10.14-10.40.46:547][833]LogStaticLightingSystem: Illumination: 5.12 sec (20 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2017.10.14-10.40.46:547][833]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.10.14-10.40.46:547][833]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.10.14-10.40.46:729][833]DumpUnbuiltLightIteractions
+[2017.10.14-10.40.46:729][833]Lights with unbuilt interactions: 0
+[2017.10.14-10.40.46:730][833]
+[2017.10.14-10.40.46:730][833]Primitives with unbuilt interactions: 0
+[2017.10.14-10.40.46:740][834]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.14-10.40.46:740][834]MapCheck: New page: MainMenu - Oct 14, 2017, 2:40:46 PM
+[2017.10.14-10.40.46:831][834]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91.207ms to complete.
+[2017.10.14-10.40.50:588][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Advanced_Lighting" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.40.50:632][ 75]LogSavePackage: Save=28.55ms
+[2017.10.14-10.40.50:633][ 75]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Advanced_Lighting58324ED14DE727C8E21F45B5A005FBCE.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap'
+[2017.10.14-10.40.50:635][ 75]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap
+[2017.10.14-10.40.50:637][ 75]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.138
+[2017.10.14-10.40.50:719][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.40.50:749][ 75]LogSavePackage: Save=16.54ms
+[2017.10.14-10.40.50:749][ 75]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/MainMenu8BA99AC9473A3E098DB46DB2D7584D2C.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap'
+[2017.10.14-10.40.50:752][ 75]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap
+[2017.10.14-10.40.50:766][ 75]LogFileHelpers: Saving map 'MainMenu' took 0.128
+[2017.10.14-10.40.50:766][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu_BuiltData" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu_BuiltData.uasset" SILENT=true
+[2017.10.14-10.40.50:769][ 75]LogSavePackage: Save=1.44ms
+[2017.10.14-10.40.50:769][ 75]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/MainMenu_BuiltData0833BF9748232678E7C4B5AC1DAB9758.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu_BuiltData.uasset'
+[2017.10.14-10.40.50:772][ 75]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu_BuiltData.uasset
+[2017.10.14-10.40.50:850][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Minimal_Default" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.40.50:918][ 75]LogSavePackage: Save=52.68ms
+[2017.10.14-10.40.50:921][ 75]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Minimal_Default652BAEA043FAF68C6FE4F59582ED4CC6.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap'
+[2017.10.14-10.40.50:925][ 75]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap
+[2017.10.14-10.40.50:926][ 75]LogFileHelpers: Saving map 'Minimal_Default' took 0.154
+[2017.10.14-10.40.51:005][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.40.51:438][ 75]LogSavePackage: Save=406.41ms
+[2017.10.14-10.40.51:438][ 75]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/StarterMapC16AC400429EC54278E522B13BD585E0.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap'
+[2017.10.14-10.40.51:442][ 75]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap
+[2017.10.14-10.40.51:449][ 75]LogFileHelpers: Saving map 'StarterMap' took 0.522
+[2017.10.14-10.40.51:452][ 75]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-10.40.51:452][ 75]LightingResults: New page: Lighting Build
+[2017.10.14-10.40.51:452][ 75]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.10.14-10.40.51:453][ 75]MapCheck: New page: Map Check
+[2017.10.14-10.40.51:453][ 75]LightingResults: New page: Lighting Build
+[2017.10.14-10.40.52:529][ 75]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.14-10.40.52:530][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-10.40.52:559][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-10.40.52:644][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 84.958ms to complete.
+[2017.10.14-10.40.52:645][ 75]LogFileHelpers: Loading map 'MainMenu' took 1.195
+[2017.10.14-10.41.01:257][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Advanced_Lighting" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.41.01:303][970]LogSavePackage: Save=29.97ms
+[2017.10.14-10.41.01:303][970]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Advanced_Lighting50988217400E6B91648E9B96F28E2E57.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap'
+[2017.10.14-10.41.01:306][970]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap
+[2017.10.14-10.41.01:308][970]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.135
+[2017.10.14-10.41.01:390][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Minimal_Default" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.41.01:456][970]LogSavePackage: Save=51.07ms
+[2017.10.14-10.41.01:456][970]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Minimal_DefaultBC7A72FD4AAFB9A854CD339CEAC64428.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap'
+[2017.10.14-10.41.01:459][970]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap
+[2017.10.14-10.41.01:460][970]LogFileHelpers: Saving map 'Minimal_Default' took 0.152
+[2017.10.14-10.41.01:540][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.41.01:970][970]LogSavePackage: Save=404.17ms
+[2017.10.14-10.41.01:970][970]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/StarterMap27114CAD42A56BBEB541788C9E7B12DF.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap'
+[2017.10.14-10.41.01:974][970]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap
+[2017.10.14-10.41.01:981][970]LogFileHelpers: Saving map 'StarterMap' took 0.521
+[2017.10.14-10.41.01:985][970]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-10.41.01:985][970]LightingResults: New page: Lighting Build
+[2017.10.14-10.41.01:986][970]LoadErrors: New page: Loading map: StarterMap.umap
+[2017.10.14-10.41.01:986][970]MapCheck: New page: Map Check
+[2017.10.14-10.41.01:986][970]LightingResults: New page: Lighting Build
+[2017.10.14-10.41.05:007][970]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-10.41.05:036][970]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-10.41.05:116][970]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.87ms to complete.
+[2017.10.14-10.41.05:116][970]LogFileHelpers: Loading map 'StarterMap' took 3.133
+[2017.10.14-10.41.10:522][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Advanced_Lighting" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.41.10:614][999]LogSavePackage: Save=29.97ms
+[2017.10.14-10.41.10:614][999]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Advanced_LightingBD9AB91042E22669110D30B375CFF7FB.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap'
+[2017.10.14-10.41.10:617][999]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap
+[2017.10.14-10.41.10:619][999]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.184
+[2017.10.14-10.41.10:697][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Minimal_Default" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.41.10:764][999]LogSavePackage: Save=51.48ms
+[2017.10.14-10.41.10:764][999]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Minimal_Default1FD792B94F30B6D337EE04A6711EAB0E.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap'
+[2017.10.14-10.41.10:767][999]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap
+[2017.10.14-10.41.10:769][999]LogFileHelpers: Saving map 'Minimal_Default' took 0.150
+[2017.10.14-10.41.10:846][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.41.11:264][999]LogSavePackage: Save=404.34ms
+[2017.10.14-10.41.11:264][999]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/StarterMap1C638B694BB530D53F818D802FEDAD30.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap'
+[2017.10.14-10.41.11:268][999]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap
+[2017.10.14-10.41.11:282][999]LogFileHelpers: Saving map 'StarterMap' took 0.513
+[2017.10.14-10.41.11:285][999]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-10.41.11:285][999]LightingResults: New page: Lighting Build
+[2017.10.14-10.41.11:286][999]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2017.10.14-10.41.11:288][999]MapCheck: New page: Map Check
+[2017.10.14-10.41.11:288][999]LightingResults: New page: Lighting Build
+[2017.10.14-10.41.12:296][999]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-10.41.12:323][999]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-10.41.12:406][999]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.96ms to complete.
+[2017.10.14-10.41.12:406][999]LogFileHelpers: Loading map 'Advanced_Lighting' took 1.122
+[2017.10.14-10.41.22:005][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Advanced_Lighting" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.41.22:048][979]LogSavePackage: Save=28.95ms
+[2017.10.14-10.41.22:048][979]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Advanced_LightingC3B8001846B22CE44D67C6ABF50EDB69.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap'
+[2017.10.14-10.41.22:051][979]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap
+[2017.10.14-10.41.22:066][979]LogFileHelpers: Saving map 'Advanced_Lighting' took 0.144
+[2017.10.14-10.41.22:144][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Minimal_Default" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.41.22:212][979]LogSavePackage: Save=51.36ms
+[2017.10.14-10.41.22:212][979]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Minimal_Default639782C747065A78B1B42E9A727F5C98.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap'
+[2017.10.14-10.41.22:216][979]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap
+[2017.10.14-10.41.22:217][979]LogFileHelpers: Saving map 'Minimal_Default' took 0.151
+[2017.10.14-10.41.22:221][979]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-10.41.22:221][979]LightingResults: New page: Lighting Build
+[2017.10.14-10.41.22:221][979]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2017.10.14-10.41.22:222][979]MapCheck: New page: Map Check
+[2017.10.14-10.41.22:222][979]LightingResults: New page: Lighting Build
+[2017.10.14-10.41.22:236][979]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-10.41.22:263][979]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-10.41.22:338][979]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.354ms to complete.
+[2017.10.14-10.41.22:339][979]LogFileHelpers: Loading map 'Minimal_Default' took 0.120
+[2017.10.14-10.41.24:121][114]LogAIModule: Creating AISystem for world StarterMap
+[2017.10.14-10.41.25:190][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Minimal_Default" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.41.25:257][114]LogSavePackage: Save=52.85ms
+[2017.10.14-10.41.25:257][114]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Minimal_Default414E779640B3D1C627DC8FB7945A687E.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap'
+[2017.10.14-10.41.25:260][114]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap
+[2017.10.14-10.41.25:275][114]LogFileHelpers: Saving map 'Minimal_Default' took 0.167
+[2017.10.14-10.41.25:276][114]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-10.41.25:276][114]LightingResults: New page: Lighting Build
+[2017.10.14-10.41.25:277][114]LoadErrors: New page: Loading map: StarterMap.umap
+[2017.10.14-10.41.25:278][114]MapCheck: New page: Map Check
+[2017.10.14-10.41.25:278][114]LightingResults: New page: Lighting Build
+[2017.10.14-10.41.25:305][114]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-10.41.25:335][114]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-10.41.25:413][114]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.575ms to complete.
+[2017.10.14-10.41.25:413][114]LogFileHelpers: Loading map 'StarterMap' took 0.137
+[2017.10.14-10.41.44:697][314]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2017.10.14-10.41.44:721][314]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.14-10.41.57:858][890]LightingResults: New page: Lighting Build
+[2017.10.14-10.41.57:860][890]MapCheck: New page: Map Check
+[2017.10.14-10.41.57:860][890]LightingResults: New page: Lighting Build
+[2017.10.14-10.41.57:880][890]LogAIModule: Creating AISystem for world Untitled
+[2017.10.14-10.41.57:886][890]LoadErrors: New page: New Map
+[2017.10.14-10.41.58:003][890]LogAIModule: Creating AISystem for world StarterMap
+[2017.10.14-10.42.11:090][106]LogAIModule: Creating AISystem for world DoubtfulWay
+[2017.10.14-10.42.22:880][937]LogMetaData: Removing '/Game/Maps/DoubtfulWay.SKEL_DoubtfulWay_C' ref from Metadata '/Game/FirstPersonBP/Maps/DoubtfulWay./Game/FirstPersonBP/Maps/DoubtfulWay_BuiltData.PackageMetaData'
+[2017.10.14-10.42.22:880][937]LogMetaData: Removing '/Game/Maps/DoubtfulWay.DoubtfulWay_C' ref from Metadata '/Game/FirstPersonBP/Maps/DoubtfulWay./Game/FirstPersonBP/Maps/DoubtfulWay_BuiltData.PackageMetaData'
+[2017.10.14-10.42.22:981][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DoubtfulWay" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.42.24:870][937]LogSavePackage: Save=1796.96ms
+[2017.10.14-10.42.24:870][937]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWay8130D81B42F924F4F845E6BD7F7437CC.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap'
+[2017.10.14-10.42.24:874][937]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap
+[2017.10.14-10.42.24:912][937]LogFileHelpers: Saving map 'DoubtfulWay' took 2.021
+[2017.10.14-10.42.26:453][110]MapCheck: New page: Map Check
+[2017.10.14-10.42.26:462][110]Cmd: MAP REBUILD ALLVISIBLE
+[2017.10.14-10.42.26:462][110]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.10.14-10.42.26:480][110]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2017.10.14-10.42.26:489][110]LightingResults: New page: Lighting Build - Oct 14, 2017, 2:42:26 PM
+[2017.10.14-10.42.26:496][110]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.14-10.42.26:498][110]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.14-10.42.26:498][110]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.14-10.42.26:499][110]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.14-10.42.26:499][110]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4740
+[2017.10.14-10.42.31:044][110]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.10.14-10.42.31:044][110]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.14-10.42.31:044][110]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.14-10.42.31:044][110]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.14-10.42.31:044][110]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.14-10.42.31:044][110]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.14-10.42.31:138][110]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.10.14-10.42.31:138][110]MapCheck: New page: Untitled_1 - Oct 14, 2017, 2:42:31 PM
+[2017.10.14-10.42.31:226][110]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.264ms to complete.
+[2017.10.14-10.42.31:248][110]LogEditorBuildUtils: Build time 0:04
+[2017.10.14-10.42.32:277][173]Job is a success!
+[2017.10.14-10.42.32:367][174]Lightmass on JAN-LUKASPC: 572 ms total, 60 ms importing, 5 ms setup, 271 ms photons, 203 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 1.26 sec total, 0 ms processing.
+[2017.10.14-10.42.32:396][174]LogStaticLightingSystem: Illumination: 5.89 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2017.10.14-10.42.32:396][174]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.10.14-10.42.32:396][174]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.10.14-10.42.33:046][174]DumpUnbuiltLightIteractions
+[2017.10.14-10.42.33:046][174]Lights with unbuilt interactions: 0
+[2017.10.14-10.42.33:046][174]
+[2017.10.14-10.42.33:046][174]Primitives with unbuilt interactions: 0
+[2017.10.14-10.42.33:055][175]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.14-10.42.33:055][175]MapCheck: New page: Untitled_1 - Oct 14, 2017, 2:42:33 PM
+[2017.10.14-10.42.33:141][175]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.119ms to complete.
+[2017.10.14-10.42.39:230][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/DoubtfulWay" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Maps/DoubtfulWay.umap" SILENT=true
+[2017.10.14-10.42.39:290][767]LogSavePackage: Save=1.54ms
+[2017.10.14-10.42.39:290][767]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWay4273D3BE49325E3A70D2FD8580F80E42.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Maps/DoubtfulWay.umap'
+[2017.10.14-10.42.39:294][767]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/FirstPersonBP/Maps/DoubtfulWay.umap
+[2017.10.14-10.42.39:295][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Advanced_Lighting" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap" SILENT=true
+[2017.10.14-10.42.39:299][767]LogSavePackage: Save=1.39ms
+[2017.10.14-10.42.39:299][767]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Advanced_Lighting831AF7F04351118CE62F74A27CD23CCC.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap'
+[2017.10.14-10.42.39:302][767]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Advanced_Lighting.umap
+[2017.10.14-10.42.39:389][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DoubtfulWay" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.42.41:183][767]LogSavePackage: Save=1749.74ms
+[2017.10.14-10.42.41:183][767]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWay7B5B831B481D1C71D193BC8ED10801E9.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap'
+[2017.10.14-10.42.41:189][767]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap
+[2017.10.14-10.42.41:222][767]LogFileHelpers: Saving map 'DoubtfulWay' took 1.920
+[2017.10.14-10.42.41:222][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Minimal_Default" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap" SILENT=true
+[2017.10.14-10.42.41:228][767]LogSavePackage: Save=1.51ms
+[2017.10.14-10.42.41:228][767]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/Minimal_Default8CBABCC6471D3FC22B4F8F843CDF4668.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap'
+[2017.10.14-10.42.41:232][767]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/Minimal_Default.umap
+[2017.10.14-10.42.41:232][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap" SILENT=true
+[2017.10.14-10.42.41:236][767]LogSavePackage: Save=1.18ms
+[2017.10.14-10.42.41:236][767]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/StarterMap34CC6ED243B1D8D1513BB18CC0592B61.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap'
+[2017.10.14-10.42.41:240][767]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/StarterMap.umap
+[2017.10.14-10.42.49:335][963]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.14-10.42.57:512][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DoubtfulWay" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.42.59:294][963]LogSavePackage: Save=1737.69ms
+[2017.10.14-10.42.59:294][963]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWay4574E21F475D93586531BC86BF44C9D4.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap'
+[2017.10.14-10.42.59:299][963]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap
+[2017.10.14-10.42.59:311][963]LogFileHelpers: Saving map 'DoubtfulWay' took 1.887
+[2017.10.14-10.42.59:312][963]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-10.42.59:312][963]LightingResults: New page: Lighting Build
+[2017.10.14-10.42.59:313][963]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.10.14-10.42.59:334][963]MapCheck: New page: Map Check
+[2017.10.14-10.42.59:334][963]LightingResults: New page: Lighting Build
+[2017.10.14-10.43.01:531][963]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-10.43.01:559][963]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-10.43.01:645][963]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.61ms to complete.
+[2017.10.14-10.43.01:646][963]LogFileHelpers: Loading map 'MainMenu' took 2.335
+[2017.10.14-10.43.15:371][345]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 113 classes and 0 folders.
+[2017.10.14-10.43.16:460][345]LogSlate: Took 0.026290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.14-10.43.16:782][346]LogSlate: Took 0.020146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.14-10.43.24:959][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DoubtfulWay" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.43.26:746][ 16]LogSavePackage: Save=1741.54ms
+[2017.10.14-10.43.26:747][ 16]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWayA8909D214CE00762F5B20182E8361658.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap'
+[2017.10.14-10.43.26:754][ 16]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap
+[2017.10.14-10.43.26:766][ 16]LogFileHelpers: Saving map 'DoubtfulWay' took 1.901
+[2017.10.14-10.43.26:789][ 16]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-10.43.26:789][ 16]LightingResults: New page: Lighting Build
+[2017.10.14-10.43.26:790][ 16]LoadErrors: New page: Loading map: DoubtfulWay.umap
+[2017.10.14-10.43.26:790][ 16]MapCheck: New page: Map Check
+[2017.10.14-10.43.26:790][ 16]LightingResults: New page: Lighting Build
+[2017.10.14-10.43.26:824][ 16]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-10.43.26:872][ 16]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-10.43.26:961][ 16]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.589ms to complete.
+[2017.10.14-10.43.26:962][ 16]LogFileHelpers: Loading map 'DoubtfulWay' took 0.174
+[2017.10.14-10.43.30:524][430]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-10.43.30:660][430]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-10.43.30:660][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-10.43.30:660][430]LogHMD: Initializing OVRPlugin session
+[2017.10.14-10.43.30:805][430]PIE: New page: PIE session: DoubtfulWay (Oct 14, 2017, 2:43:30 PM)
+[2017.10.14-10.43.30:805][430]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DoubtfulWay
+[2017.10.14-10.43.30:941][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.136657s)
+[2017.10.14-10.43.30:942][430]LogAIModule: Creating AISystem for world DoubtfulWay
+[2017.10.14-10.43.30:942][430]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2017.10.14-10.43.30:943][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DoubtfulWay.DoubtfulWay to /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay (0.137978s)
+[2017.10.14-10.43.30:988][430]LogInit: XAudio2 using 'Lautsprecher (Sound Blaster E5)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.14-10.43.30:997][430]LogInit: FAudioDevice initialized.
+[2017.10.14-10.43.31:071][430]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.14-10.43.31:092][430]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DoubtfulWay.DoubtfulWay up for play (max tick rate 0) at 2017.10.14-12.43.31
+[2017.10.14-10.43.31:116][430]LogWorld: Bringing up level for play took: 0.032728
+[2017.10.14-10.43.31:205][430]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.10.14-10.43.31:205][430]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-10.43.31:205][430]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-10.43.31:205][430]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-10.43.31:264][430]Cmd: stat FPS
+[2017.10.14-10.43.31:284][430]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-10.43.31:292][430]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_DoubtfulWay 0.096
+[2017.10.14-10.43.31:293][430]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-10.43.40:354][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-10.43.40:401][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay' with GeneratedClass '/Game/Maps/DoubtfulWay.DoubtfulWay_C' with ClassGeneratedBy '/Game/Maps/DoubtfulWay.DoubtfulWay:PersistentLevel.DoubtfulWay'
+[2017.10.14-10.43.44:635][708]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.14-10.43.45:704][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/DoubtfulWay" FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.14-10.43.47:522][708]LogSavePackage: Save=1799.01ms
+[2017.10.14-10.43.47:522][708]LogSavePackage: Moving 'V:/Doubtful_Way/Doubtful_Way 4.17/Saved/DoubtfulWay62CDA1FB478A52998199089E9200B3B4.tmp' to 'V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap'
+[2017.10.14-10.43.47:528][708]LogSavePackage: Display: Finished SavePackage V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/DoubtfulWay.umap
+[2017.10.14-10.43.47:546][708]LogFileHelpers: Saving map 'DoubtfulWay' took 1.938
+[2017.10.14-10.43.47:548][708]Cmd: MAP LOAD FILE="V:/Doubtful_Way/Doubtful_Way 4.17/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.14-10.43.47:548][708]LightingResults: New page: Lighting Build
+[2017.10.14-10.43.47:548][708]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.10.14-10.43.47:555][708]MapCheck: New page: Map Check
+[2017.10.14-10.43.47:555][708]LightingResults: New page: Lighting Build
+[2017.10.14-10.43.47:585][708]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.14-10.43.47:621][708]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.14-10.43.47:712][708]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 90.79ms to complete.
+[2017.10.14-10.43.47:712][708]LogFileHelpers: Loading map 'MainMenu' took 0.166
+[2017.10.14-10.43.49:773][953]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.14-10.43.49:784][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.14-10.43.49:784][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.14-10.43.49:784][953]LogHMD: Initializing OVRPlugin session
+[2017.10.14-10.43.49:805][953]PIE: New page: PIE session: MainMenu (Oct 14, 2017, 2:43:49 PM)
+[2017.10.14-10.43.49:805][953]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2017.10.14-10.43.49:805][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000729s)
+[2017.10.14-10.43.49:806][953]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.14-10.43.49:806][953]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2017.10.14-10.43.49:806][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001507s)
+[2017.10.14-10.43.49:834][953]LogInit: XAudio2 using 'Lautsprecher (Sound Blaster E5)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.14-10.43.49:841][953]LogInit: FAudioDevice initialized.
+[2017.10.14-10.43.49:871][953]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.10.14-10.43.49:872][953]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.10.14-12.43.49
+[2017.10.14-10.43.49:872][953]LogWorld: Bringing up level for play took: 0.000725
+[2017.10.14-10.43.49:873][953]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-10.43.49:873][953]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.14-10.43.49:873][953]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-10.43.49:921][953]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.14-10.43.49:921][953]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.724
+[2017.10.14-10.43.49:921][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.14-10.43.51:928][192]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.14-10.43.51:928][192]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.14-10.43.51:928][192]LogNet: Browse: /Game/Maps/DoubtfulWay
+[2017.10.14-10.43.51:928][192]LogLoadingSplash: Loading begins
+[2017.10.14-10.43.51:931][192]LogHMD: FSplash::OnShow
+[2017.10.14-10.43.51:931][192]LogLoad: LoadMap: /Game/Maps/DoubtfulWay
+[2017.10.14-10.43.51:948][192]Cmd: MEM
+[2017.10.14-10.43.51:964][192]LogMemory: Platform Memory Stats for Windows
+[2017.10.14-10.43.51:964][192]LogMemory: Process Physical Memory: 2488.61 MB used, 2572.01 MB peak
+[2017.10.14-10.43.51:964][192]LogMemory: Process Virtual Memory: 3245.70 MB used, 3427.17 MB peak
+[2017.10.14-10.43.51:964][192]LogMemory: Physical Memory: 7076.54 MB used,  13338.59 MB free, 20415.13 MB total
+[2017.10.14-10.43.51:964][192]LogMemory: Virtual Memory: 4780.13 MB used,  13338.59 MB free, 134217728.00 MB total
+[2017.10.14-10.43.51:964][192]LogMemory: 
+[2017.10.14-10.43.51:964][192]Allocator Stats for TBB: (not implemented)
+[2017.10.14-10.43.52:315][192]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.189 s
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: 
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: 
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: Stack: 
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D5313E36
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D509C2D2
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000D50B4746
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000B3BFD5D9
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000B3BCC90D
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D48F0F67
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D4BFB666
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D4C11766
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000D4C10CB2
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000B69FE10B
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000B69B6AE8
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000B6A1D89D
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000B436BF80
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000B4BFD646
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor.exe!0x000000009DA6534A
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor.exe!0x000000009DA73970
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor.exe!0x000000009DA739EA
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor.exe!0x000000009DA802D9
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: UE4Editor.exe!0x000000009DA81C47
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: KERNEL32.DLL!0x0000000003772774
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: ntdll.dll!0x0000000004590D51
+[2017.10.14-10.43.52:315][192]LogOutputDevice: Error: 
+[2017.10.14-10.43.52:322][192]LogStats:                SubmitErrorReport -  0.000 s
